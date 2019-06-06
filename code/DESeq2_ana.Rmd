@@ -1,0 +1,311 @@
+---
+title: "DE_with_DESeq2"
+author: "Agneesh Barua"
+date: "30/05/2019"
+output: html_document
+---
+```{r}
+library(pheatmap)
+library(RColorBrewer)
+
+```
+
+```{r, load data, warning=FALSE}
+rsem<-read.csv("/Users/agneesh-barua/Dropbox (OIST)/R Training/Meta-venom/WGCNA/Pm Network/data/rsem.csv")
+long_data<-rsem %>% filter(day == '1') %>% filter(!is.na(class)) %>% dplyr::select(library, gene, count, description) %>% dplyr::mutate(counts = round(count))%>%dplyr::select(library, gene, counts, description)%>% dplyr::arrange(library) %>% spread(library, counts) %>% remove_rownames %>% column_to_rownames("gene")
+ long_data$Pm_4<-NULL
+ long_data$Pm_6<-NULL
+ long_data$Pm_2<-NULL
+ long_data$Pm_1_heart<-NULL
+ long_data$Pm_3_heart<-NULL
+ long_data$Pm_5_heart<-NULL
+ gene_desc<-long_data$description
+ long_data$description<-NULL
+ head(long_data,20)
+```
+
+```{r, making the metadata}
+tissue<-c(rep(c('venom','kidney','liver'),3)) 
+
+v_metadata<-data.frame(tissue)
+rownames(v_metadata)<-colnames(long_data)
+v_metadata
+```
+
+```{r, making DESeq object}
+dds_v<-DESeqDataSetFromMatrix(countData = long_data,
+                              colData = v_metadata,
+                              design = ~ tissue)
+
+
+```
+
+```{r, normalization}
+dds_v<-estimateSizeFactors(dds_v)
+sizeFactors(dds_v)
+norm_counts<-counts(dds_v, normalized = T)
+#head(norm_counts,10)
+```
+
+###Heirarchial clustering for quality control.Tree will show which samples are more similar to each other and color shows the correlation values. Biological replicates are expected to cluster together and sample conditions cluster apart.
+```{r,hclust}
+vst_v<-vst(dds_v,blind = T)
+vst_mat<-assay(vst_v)
+vst_cor<-cor(vst_mat)
+```
+
+###Heatmap
+```{r}
+pheatmap(vst_cor, annotation = dplyr::select(v_metadata,tissue))
+```
+
+###PCA
+```{r}         
+plotPCA(vst_v, intgroup = 'tissue')
+```
+
+###Run analysis
+```{r}
+dge_ana<-DESeq(dds_v)
+```
+
+```{r}
+mean_counts<-apply(long_data[,1:9],1,mean)
+variance_counts<-apply(long_data[,1:9],1,var)
+
+df<-data.frame(mean_counts,variance_counts)
+
+ggplot(df)+
+  geom_point(aes(x = mean_counts,y = variance_counts))+
+  scale_x_log10()+
+  scale_y_log10()+
+  xlab("Meancounts per gene")+
+  ylab("Variance per gene")
+```
+
+##Dispersion plot
+```{r}
+plotDispEsts(dge_ana)
+```
+
+###Comparing venom gland with Kidney
+```{r}
+dge_Ve_vs_kid<-results(dge_ana, 
+                contrast = c("tissue","kidney","venom"),
+                alpha = 0.05,
+                lfcThreshold = 0.32)
+table(dge_Ve_vs_kid$padj<0.05)
+
+```
+
+##MAplot
+```{r}
+DESeq2::plotMA(dge_Ve_vs_kid,ylim = c(-10,10))
+```
+
+###Shrik lfc to remove genes with low information
+```{r}
+dge_Ve_vs_kid_lfc<-lfcShrink(dge_ana,
+                 contrast = c("tissue","kidney","venom"),
+                 res = dge_Ve_vs_kid)
+dge_Ve_vs_kid_lfc
+table(dge_Ve_vs_kid_lfc$padj<0.05)
+
+DESeq2::plotMA(dge_Ve_vs_kid_lfc, ylim = c(-10,10))
+```
+
+###Comparing venom gland with liver
+```{r}
+dge_Ve_vs_liv<-results(dge_ana, 
+                contrast = c("tissue","liver","venom"),
+                alpha = 0.05,
+                lfcThreshold = 0.32)
+table(dge_Ve_vs_liv$padj<0.05)
+```
+
+##MAplot
+```{r}
+DESeq2::plotMA(dge_Ve_vs_liv,ylim = c(-10,10))
+```
+
+###Shrik lfc to remove genes with low information
+```{r}
+dge_Ve_vs_liv_lfc<-lfcShrink(dge_ana,
+                 contrast = c("tissue","liver","venom"),
+                 res = dge_Ve_vs_liv)
+
+table(dge_Ve_vs_liv_lfc$padj<0.05)
+
+DESeq2::plotMA(dge_Ve_vs_liv_lfc, ylim = c(-10,10))
+```
+
+
+```{r}
+mcols(dge_Ve_vs_kid_lfc)
+
+summary(dge_Ve_vs_kid_lfc)
+```
+
+```{r}
+mcols(dge_Ve_vs_liv_lfc)
+
+summary(dge_Ve_vs_liv_lfc)
+?results
+```
+
+##pheatmap
+```{r}
+sig_res_kid<-data.frame(dge_Ve_vs_kid_lfc)%>%rownames_to_column(var = "gene_ID")%>%subset(padj<0.05)%>%arrange(padj)
+sig_norm_counts_kid<-norm_counts[sig_res_kid$gene_ID,]
+
+heat.colors<-(brewer.pal(6,"PuOr"))
+
+pheatmap(sig_norm_counts_kid,
+         color = heat.colors,
+         cluster_rows = T,
+         show_rownames = F,
+         annotation = dplyr::select(v_metadata, tissue),
+         scale = "row")
+```
+
+
+```{r}
+sig_res_liv<-data.frame(dge_Ve_vs_liv_lfc)%>%rownames_to_column(var = "gene_ID")%>%subset(padj<0.05)%>%arrange(padj)
+sig_norm_counts_liv<-norm_counts[sig_res_liv$gene_ID,]
+
+heat.colors<-(brewer.pal(6,"PuOr"))
+
+pheatmap(sig_norm_counts_liv,
+         color = heat.colors,
+         cluster_rows = T,
+         show_rownames = F,
+         annotation = dplyr::select(v_metadata, tissue),
+         scale = "row")
+
+```
+
+##Volcano plots
+```{r}
+
+sig_res_kid2<-data.frame(dge_Ve_vs_kid_lfc)%>%rownames_to_column(var = "gene_ID")%>%mutate(threshold = padj < 0.05)
+#sig_res_kid2[is.na(sig_res_kid2)]<-FALSE
+
+ggplot(sig_res_kid2) +
+        geom_point(aes(x = log2FoldChange, y = -log10(padj), 
+                   color = threshold)) +
+        xlab("log2 fold change") + 
+        ylab("-log10 adjusted p-value") + 
+  theme(panel.grid.major = element_line(colour = "gray90"), 
+    panel.grid.minor = element_line(colour = "gray90"), 
+    panel.background = element_rect(fill = "gray97"))
+
+
+```
+
+```{r}
+sig_res_liv2<-data.frame(dge_Ve_vs_liv_lfc)%>%rownames_to_column(var = "gene_ID")%>%mutate(threshold = padj < 0.05)
+#sig_res_liv2[is.na(sig_res_liv2)]<-FALSE
+head(sig_res_liv2)
+ggplot(sig_res_liv2) +
+        geom_point(aes(x = log2FoldChange, y = -log10(padj), 
+                   color = threshold)) +
+        xlab("log2 fold change") + 
+        ylab("-log10 adjusted p-value")+
+  theme(panel.grid.major = element_line(colour = "gray90"), 
+    panel.grid.minor = element_line(colour = "gray90"), 
+    panel.background = element_rect(fill = "gray97"))
+```
+        
+
+
+##LRT for ANODEV
+```{r}
+dge_anodev<-DESeq(dds_v, test = "LRT", reduced = ~1)
+
+plotDispEsts(dge_anodev)
+
+DESeq_anodev_res_liv<-data.frame(results(dge_anodev,cooksCutoff = F, contrast = c('tissue','venom','liver')))%>%rownames_to_column(var = "gene_id")%>%mutate(gene_desc) #ccoksCutoff turned of because venom gland expression varries greatly between individuals, therefore it is nmot unlikely that we'd get genes outside the cutoff of an outlier. 
+
+
+DESeq_anodev_res_liv%>%dplyr::filter(gene_id %in% genes_of_interest)%>%View
+
+DESeq_anodev_res_kid<-data.frame(results(dge_anodev,cooksCutoff = F, contrast = c('tissue','venom','kid')))%>%rownames_to_column(var = "gene_id")%>%mutate(gene_desc)
+
+DESeq_anodev_res_kid%>%dplyr::filter(gene_id %in% genes_of_interest)%>%View
+```
+
+
+
+##Differential gene expression between days
+```{r}
+rsem<-read.csv("/Users/agneesh-barua/Dropbox (OIST)/R Training/Meta-venom/WGCNA/Pm Network/data/rsem.csv")
+
+UPR<-rsem %>% filter(tissue == 'venom gland') %>% arrange(day, tissue) %>%dplyr::mutate(counts = round(count))%>% dplyr::select(counts, day, gene,description,library)%>% spread(library,counts) 
+
+#countdata
+day_counts<-data.frame(UPR[,c(2,3,4,15,26,28,29,30,5,6,7,8,27,31,32,33,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25)])
+```
+
+```{r}
+#cut, trim, and paste to make counts data frame
+d1<-day_counts %>% drop_na(Pm_1)
+d1<-d1[,1:8]
+
+d2<-day_counts %>% drop_na(Pm_10)
+d2<-d2[,9:16]
+
+
+d3<-day_counts %>% drop_na(Pm_14)
+d3<-d3[,17:24]
+
+d4<-day_counts %>% drop_na(Pm_22)
+d4<-d4[,25:32]
+
+day_counts_all<-cbind(d1,d2,d3,d4)
+```
+
+```{r}
+gene_desc<-day_counts_all$description
+day_counts_all$description<-NULL
+rownames(day_counts_all)<-day_counts_all$gene
+day_counts_all$gene<-NULL
+dim(day_counts_all)
+```
+
+
+```{r}
+#metadata
+days<-c(rep("Day1",6),rep("Day2",8),rep("Day4",8),rep("Day8",8))
+day_metadata<-data.frame(days)
+rownames(day_metadata)<-colnames(day_counts_all[1:30]) 
+dim(day_metadata)
+day_metadata
+```
+
+```{r}
+dds_days<-DESeqDataSetFromMatrix(countData = day_counts_all,
+                              colData = day_metadata,
+                              design = ~ days)
+
+dds_days<-estimateSizeFactors(dds_days)
+sizeFactors(dds_days)
+norm_counts_days<-counts(dds_days, normalized = T)
+head(norm_counts_days,10)
+```
+
+```{r,hclust}
+vst_days<-vst(dds_days,blind = T)
+vst_mat_days<-assay(vst_days)
+vst_cor_days<-cor(vst_mat_days)
+```
+
+```{r}
+dds_anodev_days<-DESeq(dds_days, test = "LRT", reduced = ~1)
+
+plotDispEsts(dds_anodev_days)
+
+res_day_anodev<-results(dds_anodev_days,
+                alpha = 0.05,
+                cooksCutoff = FALSE)
+data.frame(res_day_anodev) %>% rownames_to_column("gene_ID") %>% mutate(gene_desc) %>% View#filter(padj < 0.05) %>% View# filter(gene_ID %in% genes_i_want) %>% View
+```
