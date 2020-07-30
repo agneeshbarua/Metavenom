@@ -1,0 +1,759 @@
+GOBPID,Pvalue,OddsRatio,ExpCount,Count,Size,Term
+GO:0009405,5.33E-24,9.303663056,14.5323776,57,89,pathogenesis
+GO:0034976,8.04E-20,3.511472029,41.63771109,102,255,response to endoplasmic reticulum stress
+GO:0006986,6.56E-16,4.282676673,23.1864901,64,142,response to unfolded protein
+GO:0034620,1.32E-15,5.02204686,17.96136557,54,110,cellular response to unfolded protein
+GO:0035966,1.74E-15,3.87568513,26.45219293,69,162,response to topologically incorrect protein
+GO:0035967,3.92E-15,4.39350106,21.06378326,59,129,cellular response to topologically incorrect protein
+GO:0030968,1.60E-14,5.001603779,16.65508444,50,102,endoplasmic reticulum unfolded protein response
+GO:0048193,2.36E-14,2.677401531,50.78167902,105,311,Golgi vesicle transport
+GO:0071702,2.33E-13,1.483663614,431.8891994,562,2645,organic substance transport
+GO:0006520,2.16E-12,2.485633295,51.27153444,101,314,cellular amino acid metabolic process
+GO:0019752,1.34E-11,1.722813037,158.2233022,237,969,carboxylic acid metabolic process
+GO:0036503,1.41E-11,4.246930141,16.32851415,45,100,ERAD pathway
+GO:0006888,2.20E-11,3.252949011,25.47248208,60,156,ER to Golgi vesicle-mediated transport
+GO:0006082,8.15E-11,1.645233976,178.4706597,258,1093,organic acid metabolic process
+GO:0043436,1.06E-10,1.647797949,174.7151014,253,1070,oxoacid metabolic process
+GO:0006629,6.64E-10,1.537454357,225.6600656,309,1382,lipid metabolic process
+GO:0046395,2.17E-09,2.442235936,38.37200826,75,235,carboxylic acid catabolic process
+GO:0016054,2.17E-09,2.442235936,38.37200826,75,235,organic acid catabolic process
+GO:0030433,2.20E-09,4.398605878,12.08310047,34,74,ubiquitin-dependent ERAD pathway
+GO:0006810,3.04E-09,1.307078916,750.2952254,876,4595,transport
+GO:0006487,3.10E-09,4.59772423,11.10338962,32,68,protein N-linked glycosylation
+GO:0046907,3.19E-09,1.450454028,292.1171182,381,1789,intracellular transport
+GO:0071705,3.21E-09,1.407484646,362.0031588,459,2217,nitrogen compound transport
+GO:0015711,3.23E-09,1.941527514,74.2947394,123,455,organic anion transport
+GO:0044248,3.29E-09,1.438062942,309.0987729,400,1893,cellular catabolic process
+GO:0033036,3.50E-09,1.36011879,478.2621796,586,2929,macromolecule localization
+GO:0015031,4.77E-09,1.432764698,309.0987729,399,1893,protein transport
+GO:0051649,5.52E-09,1.4099603,343.5519378,437,2104,establishment of localization in cell
+GO:1903573,6.14E-09,7.739032621,5.714979954,21,35,negative regulation of response to endoplasmic reticulum stress
+GO:0070085,7.97E-09,2.223186507,45.88312477,84,281,glycosylation
+GO:0051234,8.50E-09,1.2946433,769.2363018,892,4711,establishment of localization
+GO:0015833,1.17E-08,1.415523734,315.7934637,404,1934,peptide transport
+GO:0043413,1.77E-08,2.209562656,44.4135585,81,272,macromolecule glycosylation
+GO:0006486,1.77E-08,2.209562656,44.4135585,81,272,protein glycosylation
+GO:0044281,2.26E-08,1.397144401,330.9789819,419,2027,small molecule metabolic process
+GO:0042886,2.60E-08,1.401069413,320.5287328,407,1963,amide transport
+GO:0044282,3.53E-08,2.050623576,53.23095614,92,326,small molecule catabolic process
+GO:0045184,3.87E-08,1.392078637,326.0804277,412,1997,establishment of protein localization
+GO:0009056,9.64E-08,1.356815679,371.3104119,459,2274,catabolic process
+GO:0036507,1.35E-07,12.01396161,3.265702831,14,20,protein demannosylation
+GO:0036508,1.35E-07,12.01396161,3.265702831,14,20,"protein alpha-1,2-demannosylation"
+GO:0044255,1.41E-07,1.513046898,170.796258,233,1046,cellular lipid metabolic process
+GO:0030970,2.50E-07,8.241916168,4.24541368,16,26,"retrograde protein transport, ER to cytosol"
+GO:1903513,2.50E-07,8.241916168,4.24541368,16,26,endoplasmic reticulum to cytosol transport
+GO:0009063,2.72E-07,2.957272335,17.96136557,40,110,cellular amino acid catabolic process
+GO:0006820,3.20E-07,1.681584391,94.70538209,141,580,anion transport
+GO:1901605,3.30E-07,2.294445088,32.49374317,61,199,alpha-amino acid metabolic process
+GO:1904380,3.34E-07,15.43721973,2.612562265,12,16,endoplasmic reticulum mannose trimming
+GO:0051641,4.39E-07,1.309410227,446.0950067,535,2732,cellular localization
+GO:0018279,4.43E-07,5.156730409,6.857975945,21,42,protein N-linked glycosylation via asparagine
+GO:0008104,4.55E-07,1.316269505,422.0920909,509,2585,protein localization
+GO:0008152,5.40E-07,1.243263396,1704.860163,1816,10441,metabolic process
+GO:0018196,7.32E-07,4.921975662,7.021261086,21,43,peptidyl-asparagine modification
+GO:0009083,8.01E-07,9.009162304,3.592273114,14,22,branched-chain amino acid catabolic process
+GO:0036498,8.43E-07,4.394149121,8.164257077,23,50,IRE1-mediated unfolded protein response
+GO:0043039,1.30E-06,4.236906995,8.327542218,23,51,tRNA aminoacylation
+GO:0006418,1.30E-06,4.236906995,8.327542218,23,51,tRNA aminoacylation for protein translation
+GO:1905039,1.40E-06,2.907946833,16.32851415,36,100,carboxylic acid transmembrane transport
+GO:1903825,1.40E-06,2.907946833,16.32851415,36,100,organic acid transmembrane transport
+GO:1902236,1.42E-06,9.557863818,3.265702831,13,20,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+GO:1905897,1.46E-06,3.403278745,11.91981533,29,73,regulation of response to endoplasmic reticulum stress
+GO:1901566,1.93E-06,1.35250985,286.2388531,356,1753,organonitrogen compound biosynthetic process
+GO:0043038,1.97E-06,4.090509154,8.49082736,23,52,amino acid activation
+GO:0015849,2.01E-06,1.892982456,50.78167902,83,311,organic acid transport
+GO:0046942,2.01E-06,1.892982456,50.78167902,83,311,carboxylic acid transport
+GO:0009066,2.41E-06,4.201522603,8.000971935,22,49,aspartate family amino acid metabolic process
+GO:0032527,2.59E-06,4.895578868,6.36812052,19,39,protein exit from endoplasmic reticulum
+GO:1901564,2.71E-06,1.217064246,1028.206536,1134,6297,organonitrogen compound metabolic process
+GO:0006886,3.01E-06,1.444520996,171.2861135,226,1049,intracellular protein transport
+GO:0006517,3.54E-06,5.885372113,4.898554246,16,30,protein deglycosylation
+GO:0034204,3.54E-06,5.885372113,4.898554246,16,30,lipid translocation
+GO:0070727,4.22E-06,1.342051715,280.360588,347,1717,cellular macromolecule localization
+GO:0016192,4.67E-06,1.35402301,257.9905236,322,1580,vesicle-mediated transport
+GO:0006900,4.67E-06,3.317442422,11.26667477,27,69,vesicle budding from membrane
+GO:1901575,5.52E-06,1.322822685,307.6292067,376,1884,organic substance catabolic process
+GO:0009100,5.87E-06,1.713105306,67.27347831,102,412,glycoprotein metabolic process
+GO:0006575,5.95E-06,2.178681365,29.22804034,53,179,cellular modified amino acid metabolic process
+GO:0051179,6.37E-06,1.209953799,967.6277488,1068,5926,localization
+GO:0006644,6.64E-06,1.679291913,72.3353177,108,443,phospholipid metabolic process
+GO:0034613,7.39E-06,1.332956364,278.4011663,343,1705,cellular protein localization
+GO:0006890,8.34E-06,3.271499514,10.94010448,26,67,"retrograde vesicle-mediated transport, Golgi to ER"
+GO:0070972,9.09E-06,3.074356103,12.24638562,28,75,protein localization to endoplasmic reticulum
+GO:0009067,1.02E-05,9.428962769,2.775847406,11,17,aspartate family amino acid biosynthetic process
+GO:0045332,1.17E-05,5.515472182,4.735269105,15,29,phospholipid translocation
+GO:0097035,1.25E-05,3.963787337,7.511116511,20,46,regulation of membrane lipid distribution
+GO:0009081,1.26E-05,6.004363002,4.24541368,14,26,branched-chain amino acid metabolic process
+GO:0009101,1.32E-05,1.752295629,56.33337383,87,345,glycoprotein biosynthetic process
+GO:0070059,1.49E-05,3.22333834,10.6135342,25,65,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+GO:0006457,1.92E-05,2.034262927,31.8406026,55,195,protein folding
+GO:0045017,2.00E-05,1.903640331,39.51500425,65,242,glycerolipid biosynthetic process
+GO:0006768,2.11E-05,35.96083551,1.306281132,7,8,biotin metabolic process
+GO:0048199,2.31E-05,3.915039341,7.184546228,19,44,"vesicle targeting, to, from or within Golgi"
+GO:0006869,2.35E-05,1.724675702,56.33337383,86,345,lipid transport
+GO:0006766,2.43E-05,2.581544256,16.16522901,33,99,vitamin metabolic process
+GO:0006767,2.64E-05,3.172788173,10.28696392,24,63,water-soluble vitamin metabolic process
+GO:1901565,2.83E-05,1.367768429,192.8397522,244,1181,organonitrogen compound catabolic process
+GO:0007030,3.24E-05,2.316176566,20.57392783,39,126,Golgi organization
+GO:1902235,3.28E-05,4.8253367,5.061839388,15,31,regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+GO:0003333,3.66E-05,2.9977993,11.10338962,25,68,amino acid transmembrane transport
+GO:0009062,4.05E-05,2.541056534,15.83865873,32,97,fatty acid catabolic process
+GO:1901606,4.05E-05,2.541056534,15.83865873,32,97,alpha-amino acid catabolic process
+GO:0008654,4.19E-05,1.827602964,41.96428138,67,257,phospholipid biosynthetic process
+GO:0071704,4.67E-05,1.186264686,1618.155753,1709,9910,organic substance metabolic process
+GO:0044238,4.92E-05,1.183487635,1556.597254,1648,9533,primary metabolic process
+GO:0033554,5.38E-05,1.289003423,290.3209817,349,1778,cellular response to stress
+GO:0048194,5.82E-05,3.278692436,8.817397643,21,54,Golgi vesicle budding
+GO:0072329,6.02E-05,2.323642534,18.94107642,36,116,monocarboxylic acid catabolic process
+GO:0046474,6.09E-05,1.903564203,34.61645001,57,212,glycerophospholipid biosynthetic process
+GO:0006399,6.13E-05,2.034575261,27.75847406,48,170,tRNA metabolic process
+GO:0016042,6.16E-05,1.728688106,49.63868303,76,304,lipid catabolic process
+GO:0006086,7.42E-05,9.251287794,2.285991982,9,14,acetyl-CoA biosynthetic process from pyruvate
+GO:0006892,7.89E-05,2.428419561,16.32851415,32,100,post-Golgi vesicle-mediated transport
+GO:0006620,8.14E-05,17.97911227,1.469566274,7,9,posttranslational protein targeting to endoplasmic reticulum membrane
+GO:0015914,8.19E-05,2.735782517,12.24638562,26,75,phospholipid transport
+GO:0010876,8.48E-05,1.619268235,63.19134978,92,387,lipid localization
+GO:0055114,8.74E-05,1.364855903,168.1836958,213,1030,oxidation-reduction process
+GO:0044237,8.99E-05,1.17638899,1573.252339,1661,9635,cellular metabolic process
+GO:0015748,9.77E-05,2.393050463,16.4917993,32,101,organophosphate ester transport
+GO:0097502,9.90E-05,4.501963351,4.898554246,14,30,mannosylation
+GO:0050796,0.000108739,1.991433945,27.59518892,47,169,regulation of insulin secretion
+GO:0006605,0.000109228,1.672062953,52.90438586,79,324,protein targeting
+GO:0032787,0.000115646,1.482374893,95.03195238,129,582,monocarboxylic acid metabolic process
+GO:0071265,0.000115713,Inf,0.816425708,5,5,L-methionine biosynthetic process
+GO:0006552,0.000115713,Inf,0.816425708,5,5,leucine catabolic process
+GO:0051182,0.000115713,Inf,0.816425708,5,5,coenzyme transport
+GO:0061024,0.000121716,1.418666242,122.9537116,161,753,membrane organization
+GO:0010498,0.000132556,1.577355837,67.27347831,96,412,proteasomal protein catabolic process
+GO:0015802,0.000132931,10.2761194,1.959421698,8,12,basic amino acid transport
+GO:0045047,0.000135708,3.261346322,8.000971935,19,49,protein targeting to ER
+GO:0072599,0.000145179,3.004811899,9.307253068,21,57,establishment of protein localization to endoplasmic reticulum
+GO:0097164,0.000168132,1.900671186,30.37103633,50,186,ammonium ion metabolic process
+GO:1902475,0.000187201,4.457744548,4.571983963,13,28,L-alpha-amino acid transmembrane transport
+GO:1901607,0.000192905,2.923387955,9.470538209,21,58,alpha-amino acid biosynthetic process
+GO:0090276,0.00021815,1.825137344,33.8000243,54,207,regulation of peptide hormone secretion
+GO:0019216,0.000222985,1.610240936,56.49665897,82,346,regulation of lipid metabolic process
+GO:0009086,0.000232883,11.98520453,1.632851415,7,10,methionine biosynthetic process
+GO:0030073,0.000276837,1.814642422,33.31016887,53,204,insulin secretion
+GO:0090150,0.000282917,1.801322654,34.12659458,54,209,establishment of protein localization to membrane
+GO:0006515,0.000288836,4.178831776,4.735269105,13,29,protein quality control for misfolded or incompletely synthesized proteins
+GO:0006490,0.000293092,5.711144303,3.102417689,10,19,oligosaccharide-lipid intermediate biosynthetic process
+GO:0042219,0.000293092,5.711144303,3.102417689,10,19,cellular modified amino acid catabolic process
+GO:0071712,0.000309803,6.607102864,2.612562265,9,16,ER-associated misfolded protein catabolic process
+GO:0006555,0.000309803,6.607102864,2.612562265,9,16,methionine metabolic process
+GO:0006612,0.000320375,2.20064257,17.47151014,32,107,protein targeting to membrane
+GO:0035773,0.000337382,2.436268014,13.22609646,26,81,insulin secretion involved in cellular response to glucose stimulus
+GO:0044242,0.000350963,1.80388223,32.82031345,52,201,cellular lipid catabolic process
+GO:0006901,0.000385045,3.507805326,6.041550237,15,37,vesicle coating
+GO:0006551,0.000391153,15.4049217,1.306281132,6,8,leucine metabolic process
+GO:0048280,0.000391153,15.4049217,1.306281132,6,8,vesicle fusion with Golgi apparatus
+GO:0008652,0.000397069,2.575609756,11.26667477,23,69,cellular amino acid biosynthetic process
+GO:0090114,0.000414899,3.293173653,6.694690803,16,41,COPII-coated vesicle budding
+GO:0006656,0.000433989,3.93273227,4.898554246,13,30,phosphatidylcholine biosynthetic process
+GO:0099132,0.000443959,2.876821017,8.654112502,19,53,ATP hydrolysis coupled cation transmembrane transport
+GO:0019395,0.000444297,2.290893901,14.85894788,28,91,fatty acid oxidation
+GO:0034440,0.000444297,2.290893901,14.85894788,28,91,lipid oxidation
+GO:0009749,0.000482126,1.72342582,37.22901227,57,228,response to glucose
+GO:0044257,0.000482808,1.384745119,115.7691654,149,709,cellular protein catabolic process
+GO:0051603,0.000490805,1.397056481,108.7479043,141,666,proteolysis involved in cellular protein catabolic process
+GO:0000096,0.000496226,3.60052356,5.551694812,14,34,sulfur amino acid metabolic process
+GO:0046827,0.000500644,5.13965646,3.265702831,10,20,positive regulation of protein export from nucleus
+GO:0006085,0.000500644,5.13965646,3.265702831,10,20,acetyl-CoA biosynthetic process
+GO:0099131,0.000526515,2.575018755,10.77681934,22,66,ATP hydrolysis coupled ion transmembrane transport
+GO:1901137,0.000530982,1.390431669,110.707326,143,678,carbohydrate derivative biosynthetic process
+GO:0006790,0.000532777,1.559862424,57.14979954,81,350,sulfur compound metabolic process
+GO:0055069,0.000543866,4.113303438,4.408698822,12,27,zinc ion homeostasis
+GO:0006903,0.000549195,2.637411177,10.12367878,21,62,vesicle targeting
+GO:0009235,0.000591782,6.849751244,2.285991982,8,14,cobalamin metabolic process
+GO:0033539,0.000591782,6.849751244,2.285991982,8,14,fatty acid beta-oxidation using acyl-CoA dehydrogenase
+GO:0015809,0.000599952,25.66716362,0.979710849,5,6,arginine transport
+GO:0061732,0.000599952,25.66716362,0.979710849,5,6,mitochondrial acetyl-CoA biosynthetic process from pyruvate
+GO:0006865,0.000679265,1.941244162,22.69663467,38,139,amino acid transport
+GO:1904382,0.000709537,Inf,0.653140566,4,4,mannose trimming involved in glycoprotein ERAD pathway
+GO:0071267,0.000709537,Inf,0.653140566,4,4,L-methionine salvage
+GO:0097359,0.000709537,Inf,0.653140566,4,4,UDP-glucosylation
+GO:0097466,0.000709537,Inf,0.653140566,4,4,ubiquitin-dependent glycoprotein ERAD pathway
+GO:1904587,0.000709537,Inf,0.653140566,4,4,response to glycoprotein
+GO:0043102,0.000709537,Inf,0.653140566,4,4,amino acid salvage
+GO:0019509,0.000709537,Inf,0.653140566,4,4,L-methionine salvage from methylthioadenosine
+GO:0035977,0.000709537,Inf,0.653140566,4,4,protein deglycosylation involved in glycoprotein catabolic process
+GO:0006663,0.000709537,Inf,0.653140566,4,4,platelet activating factor biosynthetic process
+GO:0006084,0.000747658,3.215020576,6.36812052,15,39,acetyl-CoA metabolic process
+GO:0098656,0.000763243,1.65132325,41.14785567,61,252,anion transmembrane transport
+GO:0044272,0.000764684,1.87255233,25.1459118,41,154,sulfur compound biosynthetic process
+GO:0043632,0.000825177,1.418032137,89.80682785,118,550,modification-dependent macromolecule catabolic process
+GO:0006635,0.000882096,2.514374657,10.45024906,21,64,fatty acid beta-oxidation
+GO:0009225,0.000913189,3.518248893,5.225124529,13,32,nucleotide-sugar metabolic process
+GO:0006650,0.000924809,1.55677061,52.25124529,74,320,glycerophospholipid metabolic process
+GO:0009746,0.000949813,1.664270207,38.20872312,57,234,response to hexose
+GO:0000447,0.001010637,10.26920209,1.469566274,6,9,"endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+GO:1903299,0.001010637,10.26920209,1.469566274,6,9,regulation of hexokinase activity
+GO:0071616,0.00101762,3.086195286,6.531405662,15,40,acyl-CoA biosynthetic process
+GO:0035384,0.00101762,3.086195286,6.531405662,15,40,thioester biosynthetic process
+GO:1903963,0.001025214,4.038636,4.082128538,11,25,arachidonate transport
+GO:0071218,0.001025214,4.038636,4.082128538,11,25,cellular response to misfolded protein
+GO:0050482,0.001025214,4.038636,4.082128538,11,25,arachidonic acid secretion
+GO:0046470,0.001037208,2.410129128,11.26667477,22,69,phosphatidylcholine metabolic process
+GO:0034284,0.001058404,1.654798662,38.37200826,57,235,response to monosaccharide
+GO:0043092,0.00108694,5.870788913,2.449277123,8,15,L-amino acid import
+GO:0035383,0.001132464,2.195674397,14.20580731,26,87,thioester metabolic process
+GO:0006637,0.001132464,2.195674397,14.20580731,26,87,acyl-CoA metabolic process
+GO:1904152,0.001133552,7.190078329,1.959421698,7,12,"regulation of retrograde protein transport, ER to cytosol"
+GO:0006560,0.001133552,7.190078329,1.959421698,7,12,proline metabolic process
+GO:0050812,0.001133552,7.190078329,1.959421698,7,12,regulation of acyl-CoA biosynthetic process
+GO:0010510,0.001133552,7.190078329,1.959421698,7,12,regulation of acetyl-CoA biosynthetic process from pyruvate
+GO:0099515,0.001133552,7.190078329,1.959421698,7,12,actin filament-based transport
+GO:0043161,0.001140596,1.523461288,56.00680355,78,343,proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0010256,0.001145201,1.473231132,67.11019317,91,411,endomembrane system organization
+GO:0015807,0.001171698,2.510878707,9.960393634,20,61,L-amino acid transport
+GO:0006829,0.001180208,3.628857821,4.735269105,12,29,zinc II ion transport
+GO:0001678,0.001203831,1.789590829,27.26861864,43,167,cellular glucose homeostasis
+GO:0051656,0.001210108,1.445422943,74.13145426,99,454,establishment of organelle localization
+GO:1901800,0.001225257,2.075540094,16.4917993,29,101,positive regulation of proteasomal protein catabolic process
+GO:0006508,0.001254731,1.226862984,276.2784595,321,1692,proteolysis
+GO:0019538,0.001258443,1.145520635,866.2276759,934,5305,protein metabolic process
+GO:0051648,0.001272132,1.602414318,42.78070708,62,262,vesicle localization
+GO:0015909,0.001288159,2.64635634,8.654112502,18,53,long-chain fatty acid transport
+GO:0019941,0.001344836,1.400440472,88.33726157,115,541,modification-dependent protein catabolic process
+GO:0071333,0.001466173,1.810038692,25.1459118,40,154,cellular response to glucose stimulus
+GO:0006811,0.001467419,1.229471016,260.1132305,303,1593,ion transport
+GO:0051788,0.001517058,3.769119661,4.24541368,11,26,response to misfolded protein
+GO:0030072,0.001577161,1.598173516,41.47442595,60,254,peptide hormone secretion
+GO:0051650,0.001589546,1.604484395,40.65800024,59,249,establishment of vesicle localization
+GO:0008610,0.00168721,1.353211529,106.6251974,135,653,lipid biosynthetic process
+GO:0006807,0.001735523,1.133266934,1468.586563,1538,8994,nitrogen compound metabolic process
+GO:0048207,0.001771307,3.182714731,5.551694812,13,34,"vesicle targeting, rough ER to cis-Golgi"
+GO:0048208,0.001771307,3.182714731,5.551694812,13,34,COPII vesicle coating
+GO:0046486,0.001804016,1.455600885,65.47734176,88,401,glycerolipid metabolic process
+GO:0072348,0.001807417,2.857172549,6.857975945,15,42,sulfur compound transport
+GO:0019626,0.001815817,12.83265002,1.142995991,5,7,short-chain fatty acid catabolic process
+GO:1990822,0.001815817,12.83265002,1.142995991,5,7,basic amino acid transmembrane transport
+GO:0033540,0.001815817,12.83265002,1.142995991,5,7,fatty acid beta-oxidation using acyl-CoA oxidase
+GO:0000097,0.001864076,5.136567164,2.612562265,8,16,sulfur amino acid biosynthetic process
+GO:0034315,0.001864076,5.136567164,2.612562265,8,16,regulation of Arp2/3 complex-mediated actin nucleation
+GO:0043603,0.00192267,1.286109738,155.774025,189,954,cellular amide metabolic process
+GO:0090662,0.001926228,2.265026257,11.75653019,22,72,ATP hydrolysis coupled transmembrane transport
+GO:0044267,0.002025092,1.14299996,764.6643178,827,4683,cellular protein metabolic process
+GO:0071326,0.002154761,1.763240117,25.63576722,40,157,cellular response to monosaccharide stimulus
+GO:0071331,0.002154761,1.763240117,25.63576722,40,157,cellular response to hexose stimulus
+GO:0019471,0.002177268,7.701342282,1.632851415,6,10,4-hydroxyproline metabolic process
+GO:0044745,0.002177268,7.701342282,1.632851415,6,10,amino acid transmembrane import
+GO:0032957,0.002177268,7.701342282,1.632851415,6,10,inositol trisphosphate metabolic process
+GO:0089718,0.002177268,7.701342282,1.632851415,6,10,amino acid import across plasma membrane
+GO:0061178,0.002339319,2.220452172,11.91981533,22,73,regulation of insulin secretion involved in cellular response to glucose stimulus
+GO:0030163,0.002377529,1.292528736,141.894788,173,869,protein catabolic process
+GO:1905475,0.002405744,1.764121516,24.98262666,39,153,regulation of protein localization to membrane
+GO:0006895,0.002439455,4.203298381,3.265702831,9,20,Golgi to endosome transport
+GO:0042762,0.002439455,4.203298381,3.265702831,9,20,regulation of sulfur metabolic process
+GO:0055085,0.002542925,1.228488089,229.7421941,268,1407,transmembrane transport
+GO:0009064,0.00276598,2.287023155,10.6135342,20,65,glutamine family amino acid metabolic process
+GO:0045454,0.00276598,2.287023155,10.6135342,20,65,cell redox homeostasis
+GO:0015908,0.002802547,2.094212857,13.55266675,24,83,fatty acid transport
+GO:0072657,0.002845212,1.396910846,76.09087596,99,466,protein localization to membrane
+GO:0006511,0.002980445,1.365626598,87.68412101,112,537,ubiquitin-dependent protein catabolic process
+GO:0043090,0.003020514,4.565505804,2.775847406,8,17,amino acid import
+GO:0006488,0.003020514,4.565505804,2.775847406,8,17,dolichol-linked oligosaccharide biosynthetic process
+GO:0006631,0.003021249,1.442719835,61.39521322,82,376,fatty acid metabolic process
+GO:0097056,0.003084835,20.52608048,0.816425708,4,5,selenocysteinyl-tRNA(Sec) biosynthetic process
+GO:0035964,0.003084835,20.52608048,0.816425708,4,5,COPI-coated vesicle budding
+GO:0045851,0.003153116,2.768425292,6.531405662,14,40,pH reduction
+GO:0006505,0.003188503,3.083856502,5.225124529,12,32,GPI anchor metabolic process
+GO:0060712,0.003629586,5.135024245,2.285991982,7,14,spongiotrophoblast layer development
+GO:0006553,0.003629586,5.135024245,2.285991982,7,14,lysine metabolic process
+GO:0006577,0.003629586,5.135024245,2.285991982,7,14,amino-acid betaine metabolic process
+GO:0009068,0.003656636,3.852743561,3.428987972,9,21,aspartate family amino acid catabolic process
+GO:0006304,0.003754539,1.968643656,15.3488033,26,94,DNA modification
+GO:0044265,0.003850995,1.258866787,160.0194387,191,980,cellular macromolecule catabolic process
+GO:0016601,0.003897946,2.570894126,7.347831369,15,45,Rac protein signal transduction
+GO:1903008,0.003925703,1.83552014,19.2676467,31,118,organelle disassembly
+GO:0071577,0.004044049,3.42519293,4.082128538,10,25,zinc II ion transmembrane transport
+GO:0006882,0.004044049,3.42519293,4.082128538,10,25,cellular zinc ion homeostasis
+GO:0019217,0.00405277,2.09663527,12.40967076,22,76,regulation of fatty acid metabolic process
+GO:0009743,0.004087859,1.523138075,42.29085166,59,259,response to carbohydrate
+GO:0006983,0.004190259,8.554478817,1.306281132,5,8,ER overload response
+GO:0033083,0.004190259,8.554478817,1.306281132,5,8,regulation of immature T cell proliferation
+GO:0033131,0.004190259,8.554478817,1.306281132,5,8,regulation of glucokinase activity
+GO:0006914,0.004294876,1.380041152,74.45802454,96,456,autophagy
+GO:0061919,0.004294876,1.380041152,74.45802454,96,456,process utilizing autophagic mechanism
+GO:0046368,0.00434945,Inf,0.489855425,3,3,GDP-L-fucose metabolic process
+GO:2000254,0.00434945,Inf,0.489855425,3,3,regulation of male germ cell proliferation
+GO:1904154,0.00434945,Inf,0.489855425,3,3,"positive regulation of retrograde protein transport, ER to cytosol"
+GO:0006425,0.00434945,Inf,0.489855425,3,3,glutaminyl-tRNA aminoacylation
+GO:0006434,0.00434945,Inf,0.489855425,3,3,seryl-tRNA aminoacylation
+GO:0036483,0.00434945,Inf,0.489855425,3,3,neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+GO:0007066,0.00434945,Inf,0.489855425,3,3,female meiosis sister chromatid cohesion
+GO:0033577,0.00434945,Inf,0.489855425,3,3,protein glycosylation in endoplasmic reticulum
+GO:1990680,0.00434945,Inf,0.489855425,3,3,response to melanocyte-stimulating hormone
+GO:1905936,0.00434945,Inf,0.489855425,3,3,regulation of germ cell proliferation
+GO:0030327,0.00434945,Inf,0.489855425,3,3,prenylated protein catabolic process
+GO:1903381,0.00434945,Inf,0.489855425,3,3,regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway
+GO:1903382,0.00434945,Inf,0.489855425,3,3,negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway
+GO:0042350,0.00434945,Inf,0.489855425,3,3,GDP-L-fucose biosynthetic process
+GO:0010243,0.004403324,1.253808611,160.5092941,191,983,response to organonitrogen compound
+GO:0044419,0.004779603,1.277657195,131.4445389,159,805,interspecies interaction between organisms
+GO:0006613,0.005216455,2.570306657,6.857975945,14,42,cotranslational protein targeting to membrane
+GO:0051084,0.005302464,3.556120252,3.592273114,9,22,'de novo' posttranslational protein folding
+GO:0007140,0.005464867,2.672702804,6.204835378,13,38,male meiotic nuclear division
+GO:0090630,0.005679046,1.920597912,15.02223302,25,92,activation of GTPase activity
+GO:0006536,0.005714013,2.974755716,4.898554246,11,30,glutamate metabolic process
+GO:0099518,0.005723942,2.350556031,8.327542218,16,51,vesicle cytoskeletal trafficking
+GO:0046459,0.005854402,4.492819843,2.449277123,7,15,short-chain fatty acid metabolic process
+GO:0048313,0.005854402,4.492819843,2.449277123,7,15,Golgi inheritance
+GO:0071322,0.006127106,1.636215413,27.1053335,40,166,cellular response to carbohydrate stimulus
+GO:0015718,0.006143425,1.647476004,26.28890779,39,161,monocarboxylic acid transport
+GO:0010043,0.006163875,2.409862514,7.674401652,15,47,response to zinc ion
+GO:0072384,0.006703517,1.985851726,12.89952618,22,79,organelle transport along microtubule
+GO:0000041,0.006816927,1.858731948,16.00194387,26,98,transition metal ion transport
+GO:0043046,0.006919953,3.734871099,3.102417689,8,19,DNA methylation involved in gamete generation
+GO:0032119,0.007126773,5.133482476,1.959421698,6,12,sequestering of zinc ion
+GO:0061088,0.007126773,5.133482476,1.959421698,6,12,regulation of sequestering of zinc ion
+GO:2001169,0.007126773,5.133482476,1.959421698,6,12,regulation of ATP biosynthetic process
+GO:0045176,0.007126773,5.133482476,1.959421698,6,12,apical protein localization
+GO:0090407,0.007200796,1.308314517,95.5218078,118,585,organophosphate biosynthetic process
+GO:0006497,0.007433012,1.755335522,19.2676467,30,118,protein lipidation
+GO:0019637,0.007440784,1.217520667,187.6146276,218,1149,organophosphate metabolic process
+GO:0032436,0.007448978,2.00058326,12.24638562,21,75,positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0015991,0.007467312,3.301871701,3.755558255,9,23,ATP hydrolysis coupled proton transport
+GO:0015988,0.007467312,3.301871701,3.755558255,9,23,"energy coupled proton transmembrane transport, against electrochemical gradient"
+GO:0043412,0.007526951,1.126781543,646.9357308,697,3962,macromolecule modification
+GO:0015804,0.007572327,2.825812477,5.061839388,11,31,neutral amino acid transport
+GO:0042398,0.00763945,2.336666327,7.837686794,15,48,cellular modified amino acid biosynthetic process
+GO:1990090,0.007836386,2.185305129,9.307253068,17,57,cellular response to nerve growth factor stimulus
+GO:1904375,0.007841927,1.83313607,16.16522901,26,99,regulation of protein localization to cell periphery
+GO:0097006,0.007852542,1.951470626,13.06281132,22,80,regulation of plasma lipoprotein particle levels
+GO:0006915,0.008016971,1.176152789,284.932572,321,1745,apoptotic process
+GO:0046469,0.008054603,10.26229508,0.979710849,4,6,platelet activating factor metabolic process
+GO:1904153,0.008054603,10.26229508,0.979710849,4,6,"negative regulation of retrograde protein transport, ER to cytosol"
+GO:0015917,0.008054603,10.26229508,0.979710849,4,6,aminophospholipid transport
+GO:0031642,0.008054603,10.26229508,0.979710849,4,6,negative regulation of myelination
+GO:0006011,0.008054603,10.26229508,0.979710849,4,6,UDP-glucose metabolic process
+GO:0006421,0.008054603,10.26229508,0.979710849,4,6,asparaginyl-tRNA aminoacylation
+GO:0006782,0.008054603,10.26229508,0.979710849,4,6,protoporphyrinogen IX biosynthetic process
+GO:0044752,0.008054603,10.26229508,0.979710849,4,6,response to human chorionic gonadotropin
+GO:0010133,0.008054603,10.26229508,0.979710849,4,6,proline catabolic process to glutamate
+GO:0000480,0.008054603,10.26229508,0.979710849,4,6,"endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+GO:0070050,0.008054603,10.26229508,0.979710849,4,6,neuron cellular homeostasis
+GO:0070862,0.008054603,10.26229508,0.979710849,4,6,negative regulation of protein exit from endoplasmic reticulum
+GO:1903301,0.008054603,10.26229508,0.979710849,4,6,positive regulation of hexokinase activity
+GO:0045627,0.008054603,10.26229508,0.979710849,4,6,positive regulation of T-helper 1 cell differentiation
+GO:0051683,0.008164785,6.415393217,1.469566274,5,9,establishment of Golgi localization
+GO:0060050,0.008164785,6.415393217,1.469566274,5,9,positive regulation of protein glycosylation
+GO:0090166,0.008164785,6.415393217,1.469566274,5,9,Golgi disassembly
+GO:0009437,0.008164785,6.415393217,1.469566274,5,9,carnitine metabolic process
+GO:0006616,0.008164785,6.415393217,1.469566274,5,9,"SRP-dependent cotranslational protein targeting to membrane, translocation"
+GO:0033079,0.008164785,6.415393217,1.469566274,5,9,immature T cell proliferation
+GO:1903076,0.008510294,1.871143871,14.69566274,24,90,regulation of protein localization to plasma membrane
+GO:0042157,0.008601471,1.653917843,23.51306038,35,144,lipoprotein metabolic process
+GO:0006516,0.008957989,3.993327531,2.612562265,7,16,glycoprotein catabolic process
+GO:0060341,0.009106447,1.23583255,149.4059045,176,915,regulation of cellular localization
+GO:0051452,0.009399458,2.569133034,5.878265095,12,36,intracellular pH reduction
+GO:0070849,0.009436778,2.131849769,9.470538209,17,58,response to epidermal growth factor
+GO:0032024,0.009511116,1.878275112,14.04252217,23,86,positive regulation of insulin secretion
+GO:0042158,0.009519062,1.716077251,19.59421698,30,120,lipoprotein biosynthetic process
+GO:0097066,0.009868615,2.691054307,5.225124529,11,32,response to thyroid hormone
+GO:1901071,0.010184062,2.853705087,4.571983963,10,28,glucosamine-containing compound metabolic process
+GO:0046835,0.010245789,3.081522956,3.918843397,9,24,carbohydrate phosphorylation
+GO:2001243,0.0106314,1.886146537,13.38938161,22,82,negative regulation of intrinsic apoptotic signaling pathway
+GO:0006839,0.010907551,1.451405966,41.63771109,56,255,mitochondrial transport
+GO:1901135,0.011367417,1.197607757,197.9015915,227,1212,carbohydrate derivative metabolic process
+GO:0006554,0.011426278,4.399808245,2.12270684,6,13,lysine catabolic process
+GO:0007175,0.011426278,4.399808245,2.12270684,6,13,negative regulation of epidermal growth factor-activated receptor activity
+GO:0000479,0.011426278,4.399808245,2.12270684,6,13,"endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+GO:0035774,0.01142725,2.202821869,8.164257077,15,50,positive regulation of insulin secretion involved in cellular response to glucose stimulus
+GO:0046394,0.011583668,1.413286957,47.84254647,63,293,carboxylic acid biosynthetic process
+GO:0016053,0.011583668,1.413286957,47.84254647,63,293,organic acid biosynthetic process
+GO:1903533,0.011951171,1.715538847,18.28793585,28,112,regulation of protein targeting
+GO:0006760,0.012664464,2.568546881,5.388409671,11,33,folic acid-containing compound metabolic process
+GO:0080182,0.013114221,3.593733681,2.775847406,7,17,histone H3-K4 trimethylation
+GO:0006089,0.013114221,3.593733681,2.775847406,7,17,lactate metabolic process
+GO:0048308,0.013114221,3.593733681,2.775847406,7,17,organelle inheritance
+GO:1903830,0.013114221,3.593733681,2.775847406,7,17,magnesium ion transmembrane transport
+GO:0006664,0.013518053,1.677005379,19.2676467,29,118,glycolipid metabolic process
+GO:2000649,0.01367342,2.303383822,6.857975945,13,42,regulation of sodium ion transmembrane transporter activity
+GO:0010676,0.01367342,2.303383822,6.857975945,13,42,positive regulation of cellular carbohydrate metabolic process
+GO:0051645,0.0137533,3.159816303,3.428987972,8,21,Golgi localization
+GO:0033572,0.0137533,3.159816303,3.428987972,8,21,transferrin transport
+GO:0070861,0.0137533,3.159816303,3.428987972,8,21,regulation of protein exit from endoplasmic reticulum
+GO:0045940,0.0137533,3.159816303,3.428987972,8,21,positive regulation of steroid metabolic process
+GO:0034381,0.013803628,2.141476493,8.327542218,15,51,plasma lipoprotein particle clearance
+GO:0043547,0.01383231,1.340599274,64.17106062,81,393,positive regulation of GTPase activity
+GO:1901142,0.014152303,5.131941856,1.632851415,5,10,insulin metabolic process
+GO:1990440,0.014152303,5.131941856,1.632851415,5,10,positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress
+GO:0010867,0.014152303,5.131941856,1.632851415,5,10,positive regulation of triglyceride biosynthetic process
+GO:0034498,0.014152303,5.131941856,1.632851415,5,10,early endosome to Golgi transport
+GO:0007264,0.014311705,1.286510547,87.68412101,107,537,small GTPase mediated signal transduction
+GO:0006464,0.014418951,1.116080528,607.9105819,652,3723,cellular protein modification process
+GO:0036211,0.014418951,1.116080528,607.9105819,652,3723,protein modification process
+GO:0016050,0.014737456,1.361125113,56.33337383,72,345,vesicle organization
+GO:0032922,0.01490404,2.055988024,9.143967926,16,56,circadian regulation of gene expression
+GO:0007034,0.015071463,1.628182775,21.06378326,31,129,vacuolar transport
+GO:0045834,0.015130404,1.642572403,20.24735755,30,124,positive regulation of lipid metabolic process
+GO:1903509,0.015159797,1.658250804,19.43093184,29,119,liposaccharide metabolic process
+GO:0055129,0.015269187,15.38882682,0.653140566,3,4,L-proline biosynthetic process
+GO:2000210,0.015269187,15.38882682,0.653140566,3,4,positive regulation of anoikis
+GO:1904253,0.015269187,15.38882682,0.653140566,3,4,positive regulation of bile acid metabolic process
+GO:0097384,0.015269187,15.38882682,0.653140566,3,4,cellular lipid biosynthetic process
+GO:0019470,0.015269187,15.38882682,0.653140566,3,4,4-hydroxyproline catabolic process
+GO:0019254,0.015269187,15.38882682,0.653140566,3,4,"carnitine metabolic process, CoA-linked"
+GO:0002176,0.015269187,15.38882682,0.653140566,3,4,male germ cell proliferation
+GO:0035633,0.015269187,15.38882682,0.653140566,3,4,maintenance of permeability of blood-brain barrier
+GO:0036093,0.015269187,15.38882682,0.653140566,3,4,germ cell proliferation
+GO:0006848,0.015269187,15.38882682,0.653140566,3,4,pyruvate transport
+GO:0006561,0.015269187,15.38882682,0.653140566,3,4,proline biosynthetic process
+GO:0006564,0.015269187,15.38882682,0.653140566,3,4,L-serine biosynthetic process
+GO:1901475,0.015269187,15.38882682,0.653140566,3,4,pyruvate transmembrane transport
+GO:1901873,0.015269187,15.38882682,0.653140566,3,4,regulation of post-translational protein modification
+GO:0033091,0.015269187,15.38882682,0.653140566,3,4,positive regulation of immature T cell proliferation
+GO:1990592,0.015269187,15.38882682,0.653140566,3,4,protein K69-linked ufmylation
+GO:1990564,0.015269187,15.38882682,0.653140566,3,4,protein polyufmylation
+GO:0070859,0.015269187,15.38882682,0.653140566,3,4,positive regulation of bile acid biosynthetic process
+GO:1903826,0.015269187,15.38882682,0.653140566,3,4,arginine transmembrane transport
+GO:1903589,0.015269187,15.38882682,0.653140566,3,4,positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+GO:0051640,0.015336303,1.258177203,104.3392054,125,639,organelle localization
+GO:0043401,0.015495941,1.540888427,26.94204835,38,165,steroid hormone mediated signaling pathway
+GO:0061136,0.015495941,1.540888427,26.94204835,38,165,regulation of proteasomal protein catabolic process
+GO:0097190,0.015613776,1.275353771,91.6029644,111,561,apoptotic signaling pathway
+GO:0048278,0.015838419,1.986062421,9.960393634,17,61,vesicle docking
+GO:2000601,0.016372983,6.841033284,1.142995991,4,7,positive regulation of Arp2/3 complex-mediated actin nucleation
+GO:0006041,0.016372983,6.841033284,1.142995991,4,7,glucosamine metabolic process
+GO:0006562,0.016372983,6.841033284,1.142995991,4,7,proline catabolic process
+GO:0036491,0.016372983,6.841033284,1.142995991,4,7,regulation of translation initiation in response to endoplasmic reticulum stress
+GO:0036492,0.016372983,6.841033284,1.142995991,4,7,eiF2alpha phosphorylation in response to endoplasmic reticulum stress
+GO:0000101,0.016372983,6.841033284,1.142995991,4,7,sulfur amino acid transport
+GO:0034720,0.016372983,6.841033284,1.142995991,4,7,histone H3-K4 demethylation
+GO:0045625,0.016372983,6.841033284,1.142995991,4,7,regulation of T-helper 1 cell differentiation
+GO:0007029,0.016545659,2.083447083,8.49082736,15,52,endoplasmic reticulum organization
+GO:0046825,0.016741087,2.226442368,7.021261086,13,43,regulation of protein export from nucleus
+GO:0032309,0.016741087,2.226442368,7.021261086,13,43,icosanoid secretion
+GO:0016482,0.017018714,1.528738208,27.1053335,38,166,cytosolic transport
+GO:0006506,0.017116482,2.567961165,4.898554246,10,30,GPI anchor biosynthetic process
+GO:0071287,0.017273796,3.849552573,2.285991982,6,14,cellular response to manganese ion
+GO:0097284,0.017273796,3.849552573,2.285991982,6,14,hepatocyte apoptotic process
+GO:0010866,0.017273796,3.849552573,2.285991982,6,14,regulation of triglyceride biosynthetic process
+GO:0000478,0.017273796,3.849552573,2.285991982,6,14,endonucleolytic cleavage involved in rRNA processing
+GO:0010663,0.017273796,3.849552573,2.285991982,6,14,positive regulation of striated muscle cell apoptotic process
+GO:0010666,0.017273796,3.849552573,2.285991982,6,14,positive regulation of cardiac muscle cell apoptotic process
+GO:0046578,0.017652476,1.425580344,39.18843397,52,240,regulation of Ras protein signal transduction
+GO:1904292,0.018028247,2.718595613,4.24541368,9,26,regulation of ERAD pathway
+GO:0008206,0.018344301,2.115799199,7.837686794,14,48,bile acid metabolic process
+GO:0006614,0.018345307,2.283175552,6.36812052,12,39,SRP-dependent cotranslational protein targeting to membrane
+GO:0015693,0.018490315,3.266793259,2.939132548,7,18,magnesium ion transport
+GO:0018195,0.018490315,3.266793259,2.939132548,7,18,peptidyl-arginine modification
+GO:0006305,0.01859161,1.941786264,10.12367878,17,62,DNA alkylation
+GO:0006306,0.01859161,1.941786264,10.12367878,17,62,DNA methylation
+GO:0051345,0.018921533,1.233302855,117.0754465,138,717,positive regulation of hydrolase activity
+GO:0046883,0.019662818,1.382630796,45.55655449,59,279,regulation of hormone secretion
+GO:0019432,0.020003991,2.354158884,5.714979954,11,35,triglyceride biosynthetic process
+GO:0005996,0.020006676,1.423416367,37.7188677,50,231,monosaccharide metabolic process
+GO:0016197,0.020170318,1.36497479,49.1488276,63,301,endosomal transport
+GO:0047496,0.020302984,2.154464878,7.184546228,13,44,vesicle transport along microtubule
+GO:0006643,0.021352902,1.452713449,32.65702831,44,200,membrane lipid metabolic process
+GO:1990089,0.021698067,1.899435157,10.28696392,17,63,response to nerve growth factor
+GO:0035023,0.021884593,1.535054668,24.16620095,34,148,regulation of Rho protein signal transduction
+GO:0033013,0.021928672,2.055198205,8.000971935,14,49,tetrapyrrole metabolic process
+GO:0008333,0.021928672,2.055198205,8.000971935,14,49,endosome to lysosome transport
+GO:0006378,0.022417302,2.201473414,6.531405662,12,40,mRNA polyadenylation
+GO:0071823,0.022504086,4.276307616,1.796136557,5,11,protein-carbohydrate complex subunit organization
+GO:2000651,0.022504086,4.276307616,1.796136557,5,11,positive regulation of sodium ion transmembrane transporter activity
+GO:0019374,0.022504086,4.276307616,1.796136557,5,11,galactolipid metabolic process
+GO:0032025,0.022504086,4.276307616,1.796136557,5,11,response to cobalt ion
+GO:0002505,0.022504086,4.276307616,1.796136557,5,11,antigen processing and presentation of polysaccharide antigen via MHC class II
+GO:0002506,0.022504086,4.276307616,1.796136557,5,11,polysaccharide assembly with MHC class II protein complex
+GO:0006681,0.022504086,4.276307616,1.796136557,5,11,galactosylceramide metabolic process
+GO:0000098,0.022504086,4.276307616,1.796136557,5,11,sulfur amino acid catabolic process
+GO:0065006,0.022504086,4.276307616,1.796136557,5,11,protein-carbohydrate complex assembly
+GO:0034384,0.022504086,4.276307616,1.796136557,5,11,high-density lipoprotein particle clearance
+GO:0034975,0.022504086,4.276307616,1.796136557,5,11,protein folding in endoplasmic reticulum
+GO:0031329,0.022740642,1.228307241,113.1566031,133,693,regulation of cellular catabolic process
+GO:0008202,0.022975989,1.3534,49.47539789,63,303,steroid metabolic process
+GO:1901698,0.023105569,1.180372239,179.6136557,204,1100,response to nitrogen compound
+GO:0120033,0.023219693,2.567375887,4.408698822,9,27,negative regulation of plasma membrane bounded cell projection assembly
+GO:0043087,0.023304288,1.280298531,75.60102053,92,463,regulation of GTPase activity
+GO:1903214,0.023407512,1.772734322,12.73624104,20,78,regulation of protein targeting to mitochondrion
+GO:0009914,0.023417329,1.326829039,56.65994411,71,347,hormone transport
+GO:0012501,0.023505239,1.14120277,298.6485239,329,1829,programmed cell death
+GO:1900006,0.023914432,1.713928482,14.36909246,22,88,positive regulation of dendrite development
+GO:0006885,0.024025346,1.648420424,16.81836958,25,103,regulation of pH
+GO:0046889,0.024333721,1.91212923,9.633823351,16,59,positive regulation of lipid biosynthetic process
+GO:0071383,0.024344337,1.397635127,39.02514883,51,239,cellular response to steroid hormone stimulus
+GO:0030258,0.02477887,1.386222175,40.82128538,53,250,lipid modification
+GO:2000647,0.024886726,3.421575938,2.449277123,6,15,negative regulation of stem cell proliferation
+GO:0035269,0.024886726,3.421575938,2.449277123,6,15,protein O-linked mannosylation
+GO:0010893,0.024886726,3.421575938,2.449277123,6,15,positive regulation of steroid biosynthetic process
+GO:0030157,0.024886726,3.421575938,2.449277123,6,15,pancreatic juice secretion
+GO:0045792,0.024886726,3.421575938,2.449277123,6,15,negative regulation of cell size
+GO:0045838,0.024886726,3.421575938,2.449277123,6,15,positive regulation of membrane potential
+GO:0051238,0.024886726,3.421575938,2.449277123,6,15,sequestering of metal ion
+GO:1904377,0.025183831,1.858886225,10.45024906,17,64,positive regulation of protein localization to cell periphery
+GO:0060049,0.025239692,2.994342907,3.102417689,7,19,regulation of protein glycosylation
+GO:0071361,0.025239692,2.994342907,3.102417689,7,19,cellular response to ethanol
+GO:0035268,0.025239692,2.994342907,3.102417689,7,19,protein mannosylation
+GO:0009226,0.025239692,2.994342907,3.102417689,7,19,nucleotide-sugar biosynthetic process
+GO:0006491,0.025239692,2.994342907,3.102417689,7,19,N-glycan processing
+GO:0000466,0.025239692,2.994342907,3.102417689,7,19,"maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+GO:1900721,0.026653738,Inf,0.326570283,2,2,positive regulation of uterine smooth muscle relaxation
+GO:1900719,0.026653738,Inf,0.326570283,2,2,regulation of uterine smooth muscle relaxation
+GO:0001575,0.026653738,Inf,0.326570283,2,2,globoside metabolic process
+GO:2000275,0.026653738,Inf,0.326570283,2,2,regulation of oxidative phosphorylation uncoupler activity
+GO:0071401,0.026653738,Inf,0.326570283,2,2,cellular response to triglyceride
+GO:0097086,0.026653738,Inf,0.326570283,2,2,amniotic stem cell differentiation
+GO:2000797,0.026653738,Inf,0.326570283,2,2,regulation of amniotic stem cell differentiation
+GO:2000798,0.026653738,Inf,0.326570283,2,2,negative regulation of amniotic stem cell differentiation
+GO:2000740,0.026653738,Inf,0.326570283,2,2,negative regulation of mesenchymal stem cell differentiation
+GO:0071106,0.026653738,Inf,0.326570283,2,2,"adenosine 3',5'-bisphosphate transmembrane transport"
+GO:2000706,0.026653738,Inf,0.326570283,2,2,negative regulation of dense core granule biogenesis
+GO:0060720,0.026653738,Inf,0.326570283,2,2,spongiotrophoblast cell proliferation
+GO:0060721,0.026653738,Inf,0.326570283,2,2,regulation of spongiotrophoblast cell proliferation
+GO:0060722,0.026653738,Inf,0.326570283,2,2,cell proliferation involved in embryonic placenta development
+GO:0060723,0.026653738,Inf,0.326570283,2,2,regulation of cell proliferation involved in embryonic placenta development
+GO:0071231,0.026653738,Inf,0.326570283,2,2,cellular response to folic acid
+GO:0015805,0.026653738,Inf,0.326570283,2,2,S-adenosyl-L-methionine transport
+GO:1904289,0.026653738,Inf,0.326570283,2,2,regulation of mitotic DNA damage checkpoint
+GO:1904211,0.026653738,Inf,0.326570283,2,2,"membrane protein proteolysis involved in retrograde protein transport, ER to cytosol"
+GO:1904761,0.026653738,Inf,0.326570283,2,2,negative regulation of myofibroblast differentiation
+GO:2000661,0.026653738,Inf,0.326570283,2,2,positive regulation of interleukin-1-mediated signaling pathway
+GO:2000666,0.026653738,Inf,0.326570283,2,2,negative regulation of interleukin-13 secretion
+GO:0031204,0.026653738,Inf,0.326570283,2,2,"posttranslational protein targeting to membrane, translocation"
+GO:1904844,0.026653738,Inf,0.326570283,2,2,response to L-glutamine
+GO:1904845,0.026653738,Inf,0.326570283,2,2,cellular response to L-glutamine
+GO:0071586,0.026653738,Inf,0.326570283,2,2,CAAX-box protein processing
+GO:0071678,0.026653738,Inf,0.326570283,2,2,olfactory bulb axon guidance
+GO:0009085,0.026653738,Inf,0.326570283,2,2,lysine biosynthetic process
+GO:1904643,0.026653738,Inf,0.326570283,2,2,response to curcumin
+GO:0090214,0.026653738,Inf,0.326570283,2,2,spongiotrophoblast layer developmental growth
+GO:0060974,0.026653738,Inf,0.326570283,2,2,cell migration involved in heart formation
+GO:0060935,0.026653738,Inf,0.326570283,2,2,cardiac fibroblast cell differentiation
+GO:0060936,0.026653738,Inf,0.326570283,2,2,cardiac fibroblast cell development
+GO:0060938,0.026653738,Inf,0.326570283,2,2,epicardium-derived cardiac fibroblast cell differentiation
+GO:0060939,0.026653738,Inf,0.326570283,2,2,epicardium-derived cardiac fibroblast cell development
+GO:0035349,0.026653738,Inf,0.326570283,2,2,coenzyme A transmembrane transport
+GO:0035498,0.026653738,Inf,0.326570283,2,2,carnosine metabolic process
+GO:0019878,0.026653738,Inf,0.326570283,2,2,lysine biosynthetic process via aminoadipic acid
+GO:0097699,0.026653738,Inf,0.326570283,2,2,vascular endothelial cell response to fluid shear stress
+GO:0080120,0.026653738,Inf,0.326570283,2,2,CAAX-box protein maturation
+GO:0080121,0.026653738,Inf,0.326570283,2,2,AMP transport
+GO:0035752,0.026653738,Inf,0.326570283,2,2,lysosomal lumen pH elevation
+GO:0006452,0.026653738,Inf,0.326570283,2,2,translational frameshifting
+GO:0006427,0.026653738,Inf,0.326570283,2,2,histidyl-tRNA aminoacylation
+GO:0006850,0.026653738,Inf,0.326570283,2,2,mitochondrial pyruvate transmembrane transport
+GO:0006597,0.026653738,Inf,0.326570283,2,2,spermine biosynthetic process
+GO:0006529,0.026653738,Inf,0.326570283,2,2,asparagine biosynthetic process
+GO:0006507,0.026653738,Inf,0.326570283,2,2,GPI anchor release
+GO:0044558,0.026653738,Inf,0.326570283,2,2,uterine smooth muscle relaxation
+GO:0036494,0.026653738,Inf,0.326570283,2,2,positive regulation of translation initiation in response to endoplasmic reticulum stress
+GO:1901250,0.026653738,Inf,0.326570283,2,2,negative regulation of lung goblet cell differentiation
+GO:1901249,0.026653738,Inf,0.326570283,2,2,regulation of lung goblet cell differentiation
+GO:0048334,0.026653738,Inf,0.326570283,2,2,regulation of mesodermal cell fate determination
+GO:0048335,0.026653738,Inf,0.326570283,2,2,negative regulation of mesodermal cell fate determination
+GO:0003147,0.026653738,Inf,0.326570283,2,2,neural crest cell migration involved in heart formation
+GO:1905397,0.026653738,Inf,0.326570283,2,2,"activated CD8-positive, alpha-beta T cell apoptotic process"
+GO:0140009,0.026653738,Inf,0.326570283,2,2,L-aspartate import across plasma membrane
+GO:0036510,0.026653738,Inf,0.326570283,2,2,trimming of terminal mannose on C branch
+GO:0036509,0.026653738,Inf,0.326570283,2,2,trimming of terminal mannose on B branch
+GO:1905429,0.026653738,Inf,0.326570283,2,2,response to glycine
+GO:2001203,0.026653738,Inf,0.326570283,2,2,positive regulation of transforming growth factor-beta secretion
+GO:0048817,0.026653738,Inf,0.326570283,2,2,negative regulation of hair follicle maturation
+GO:1905430,0.026653738,Inf,0.326570283,2,2,cellular response to glycine
+GO:1905402,0.026653738,Inf,0.326570283,2,2,"regulation of activated CD8-positive, alpha-beta T cell apoptotic process"
+GO:1901962,0.026653738,Inf,0.326570283,2,2,S-adenosyl-L-methionine transmembrane transport
+GO:0061713,0.026653738,Inf,0.326570283,2,2,anterior neural tube closure
+GO:1905281,0.026653738,Inf,0.326570283,2,2,"positive regulation of retrograde transport, endosome to Golgi"
+GO:0007387,0.026653738,Inf,0.326570283,2,2,anterior compartment pattern formation
+GO:0007388,0.026653738,Inf,0.326570283,2,2,posterior compartment specification
+GO:0061853,0.026653738,Inf,0.326570283,2,2,regulation of neuroblast migration
+GO:0061855,0.026653738,Inf,0.326570283,2,2,negative regulation of neuroblast migration
+GO:0010897,0.026653738,Inf,0.326570283,2,2,negative regulation of triglyceride catabolic process
+GO:1990134,0.026653738,Inf,0.326570283,2,2,epithelial cell apoptotic process involved in palatal shelf morphogenesis
+GO:1902038,0.026653738,Inf,0.326570283,2,2,positive regulation of hematopoietic stem cell differentiation
+GO:0033860,0.026653738,Inf,0.326570283,2,2,regulation of NAD(P)H oxidase activity
+GO:1905603,0.026653738,Inf,0.326570283,2,2,regulation of maintenance of permeability of blood-brain barrier
+GO:1905604,0.026653738,Inf,0.326570283,2,2,negative regulation of maintenance of permeability of blood-brain barrier
+GO:0030037,0.026653738,Inf,0.326570283,2,2,actin filament reorganization involved in cell cycle
+GO:1905933,0.026653738,Inf,0.326570283,2,2,regulation of cell fate determination
+GO:1905934,0.026653738,Inf,0.326570283,2,2,negative regulation of cell fate determination
+GO:0030328,0.026653738,Inf,0.326570283,2,2,prenylcysteine catabolic process
+GO:0030329,0.026653738,Inf,0.326570283,2,2,prenylcysteine metabolic process
+GO:1902504,0.026653738,Inf,0.326570283,2,2,regulation of signal transduction involved in mitotic G2 DNA damage checkpoint
+GO:0018175,0.026653738,Inf,0.326570283,2,2,protein nucleotidylation
+GO:0018117,0.026653738,Inf,0.326570283,2,2,protein adenylylation
+GO:0034642,0.026653738,Inf,0.326570283,2,2,mitochondrion migration along actin filament
+GO:0042351,0.026653738,Inf,0.326570283,2,2,'de novo' GDP-L-fucose biosynthetic process
+GO:0051388,0.026653738,Inf,0.326570283,2,2,positive regulation of neurotrophin TRK receptor signaling pathway
+GO:1903789,0.026653738,Inf,0.326570283,2,2,regulation of amino acid transmembrane transport
+GO:1903895,0.026653738,Inf,0.326570283,2,2,negative regulation of IRE1-mediated unfolded protein response
+GO:0089712,0.026653738,Inf,0.326570283,2,2,L-aspartate transmembrane transport
+GO:0045905,0.026653738,Inf,0.326570283,2,2,positive regulation of translational termination
+GO:1903547,0.026653738,Inf,0.326570283,2,2,regulation of growth hormone activity
+GO:0051780,0.026653738,Inf,0.326570283,2,2,behavioral response to nutrient
+GO:0051886,0.026653738,Inf,0.326570283,2,2,negative regulation of timing of anagen
+GO:0090277,0.026695866,1.611099545,17.79808043,26,109,positive regulation of peptide hormone secretion
+GO:0032411,0.026991209,1.645525526,16.16522901,24,99,positive regulation of transporter activity
+GO:0010906,0.026991209,1.645525526,16.16522901,24,99,regulation of glucose metabolic process
+GO:0043631,0.027118618,2.125405907,6.694690803,12,41,RNA polyadenylation
+GO:0010821,0.028444146,1.432040366,31.51403232,42,193,regulation of mitochondrion organization
+GO:1900102,0.028555707,5.130402385,1.306281132,4,8,negative regulation of endoplasmic reticulum unfolded protein response
+GO:0046501,0.028555707,5.130402385,1.306281132,4,8,protoporphyrinogen IX metabolic process
+GO:1904293,0.028555707,5.130402385,1.306281132,4,8,negative regulation of ERAD pathway
+GO:0090188,0.028555707,5.130402385,1.306281132,4,8,negative regulation of pancreatic juice secretion
+GO:0006657,0.028555707,5.130402385,1.306281132,4,8,CDP-choline pathway
+GO:0036490,0.028555707,5.130402385,1.306281132,4,8,regulation of translation in response to endoplasmic reticulum stress
+GO:2001171,0.028555707,5.130402385,1.306281132,4,8,positive regulation of ATP biosynthetic process
+GO:0017187,0.028555707,5.130402385,1.306281132,4,8,peptidyl-glutamic acid carboxylation
+GO:0007042,0.028555707,5.130402385,1.306281132,4,8,lysosomal lumen acidification
+GO:1990416,0.028555707,5.130402385,1.306281132,4,8,cellular response to brain-derived neurotrophic factor stimulus
+GO:0010807,0.028555707,5.130402385,1.306281132,4,8,regulation of synaptic vesicle priming
+GO:0042373,0.028555707,5.130402385,1.306281132,4,8,vitamin K metabolic process
+GO:0051262,0.029509231,1.464840554,27.26861864,37,167,protein tetramerization
+GO:0006638,0.029697198,1.591803513,17.96136557,26,110,neutral lipid metabolic process
+GO:0006639,0.029697198,1.591803513,17.96136557,26,110,acylglycerol metabolic process
+GO:0046460,0.030077687,2.172753657,6.041550237,11,37,neutral lipid biosynthetic process
+GO:0046463,0.030077687,2.172753657,6.041550237,11,37,acylglycerol biosynthetic process
+GO:0042982,0.030077687,2.172753657,6.041550237,11,37,amyloid precursor protein metabolic process
+GO:0010662,0.030077687,2.172753657,6.041550237,11,37,regulation of striated muscle cell apoptotic process
+GO:0007041,0.030188609,1.623755334,16.32851415,24,100,lysosomal transport
+GO:0043648,0.030341461,1.642411924,15.51208845,23,95,dicarboxylic acid metabolic process
+GO:0071364,0.030632154,1.943823405,8.327542218,14,51,cellular response to epidermal growth factor stimulus
+GO:0090278,0.030632154,1.943823405,8.327542218,14,51,negative regulation of peptide hormone secretion
+GO:0048813,0.031498382,1.48258465,24.81934151,34,152,dendrite morphogenesis
+GO:0019318,0.031499534,1.407081309,33.47345402,44,205,hexose metabolic process
+GO:0015682,0.031642659,2.566791045,3.918843397,8,24,ferric iron transport
+GO:0032365,0.031642659,2.566791045,3.918843397,8,24,intracellular lipid transport
+GO:0072512,0.031642659,2.566791045,3.918843397,8,24,trivalent inorganic cation transport
+GO:0018345,0.031642659,2.566791045,3.918843397,8,24,protein palmitoylation
+GO:1903078,0.031832412,1.879636473,9.143967926,15,56,positive regulation of protein localization to plasma membrane
+GO:0046879,0.032308595,1.30797539,54.86380756,68,336,hormone secretion
+GO:0006040,0.032496697,2.054409567,6.857975945,12,42,amino sugar metabolic process
+GO:2000107,0.033263888,2.232522648,5.388409671,10,33,negative regulation of leukocyte apoptotic process
+GO:0043171,0.033263888,2.232522648,5.388409671,10,33,peptide catabolic process
+GO:0000460,0.033263888,2.232522648,5.388409671,10,33,maturation of 5.8S rRNA
+GO:1905477,0.033333004,1.587020116,17.308225,25,106,positive regulation of protein localization to membrane
+GO:0046349,0.033487881,3.665140301,1.959421698,5,12,amino sugar biosynthetic process
+GO:2000188,0.033487881,3.665140301,1.959421698,5,12,regulation of cholesterol homeostasis
+GO:0031293,0.033487881,3.665140301,1.959421698,5,12,membrane protein intracellular domain proteolysis
+GO:0002115,0.033487881,3.665140301,1.959421698,5,12,store-operated calcium entry
+GO:0006659,0.033487881,3.665140301,1.959421698,5,12,phosphatidylserine biosynthetic process
+GO:0010763,0.033487881,3.665140301,1.959421698,5,12,positive regulation of fibroblast migration
+GO:0070233,0.033487881,3.665140301,1.959421698,5,12,negative regulation of T cell apoptotic process
+GO:0038128,0.033495784,2.763807994,3.265702831,7,20,ERBB2 signaling pathway
+GO:1903912,0.033545714,7.693854749,0.816425708,3,5,negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation
+GO:0015811,0.033545714,7.693854749,0.816425708,3,5,L-cystine transport
+GO:0060736,0.033545714,7.693854749,0.816425708,3,5,prostate gland growth
+GO:2000845,0.033545714,7.693854749,0.816425708,3,5,positive regulation of testosterone secretion
+GO:1904781,0.033545714,7.693854749,0.816425708,3,5,positive regulation of protein localization to centrosome
+GO:1904779,0.033545714,7.693854749,0.816425708,3,5,regulation of protein localization to centrosome
+GO:0071569,0.033545714,7.693854749,0.816425708,3,5,protein ufmylation
+GO:0090118,0.033545714,7.693854749,0.816425708,3,5,receptor-mediated endocytosis involved in cholesterol transport
+GO:0019249,0.033545714,7.693854749,0.816425708,3,5,lactate biosynthetic process
+GO:0009448,0.033545714,7.693854749,0.816425708,3,5,gamma-aminobutyric acid metabolic process
+GO:0035726,0.033545714,7.693854749,0.816425708,3,5,common myeloid progenitor cell proliferation
+GO:0072382,0.033545714,7.693854749,0.816425708,3,5,minus-end-directed vesicle transport along microtubule
+GO:0006438,0.033545714,7.693854749,0.816425708,3,5,valyl-tRNA aminoacylation
+GO:0044107,0.033545714,7.693854749,0.816425708,3,5,cellular alcohol metabolic process
+GO:0044108,0.033545714,7.693854749,0.816425708,3,5,cellular alcohol biosynthetic process
+GO:0044828,0.033545714,7.693854749,0.816425708,3,5,negative regulation by host of viral genome replication
+GO:2001166,0.033545714,7.693854749,0.816425708,3,5,regulation of histone H2B ubiquitination
+GO:2001168,0.033545714,7.693854749,0.816425708,3,5,positive regulation of histone H2B ubiquitination
+GO:2001170,0.033545714,7.693854749,0.816425708,3,5,negative regulation of ATP biosynthetic process
+GO:2001140,0.033545714,7.693854749,0.816425708,3,5,positive regulation of phospholipid transport
+GO:2001138,0.033545714,7.693854749,0.816425708,3,5,regulation of phospholipid transport
+GO:0000056,0.033545714,7.693854749,0.816425708,3,5,ribosomal small subunit export from nucleus
+GO:0033133,0.033545714,7.693854749,0.816425708,3,5,positive regulation of glucokinase activity
+GO:0010986,0.033545714,7.693854749,0.816425708,3,5,positive regulation of lipoprotein particle clearance
+GO:0030473,0.033545714,7.693854749,0.816425708,3,5,nuclear migration along microtubule
+GO:0045073,0.033545714,7.693854749,0.816425708,3,5,regulation of chemokine biosynthetic process
+GO:0045006,0.033545714,7.693854749,0.816425708,3,5,DNA deamination
+GO:0042426,0.033545714,7.693854749,0.816425708,3,5,choline catabolic process
+GO:1903800,0.033545714,7.693854749,0.816425708,3,5,positive regulation of production of miRNAs involved in gene silencing by miRNA
+GO:0030004,0.033664988,1.602550603,16.4917993,24,101,cellular monovalent inorganic cation homeostasis
+GO:0030641,0.034236637,1.660690491,14.04252217,21,86,regulation of cellular pH
+GO:0071715,0.034381569,1.963936229,7.674401652,13,47,icosanoid transport
+GO:1901571,0.034381569,1.963936229,7.674401652,13,47,fatty acid derivative transport
+GO:0060457,0.034443968,3.079194631,2.612562265,6,16,negative regulation of digestive system process
+GO:0046655,0.034443968,3.079194631,2.612562265,6,16,folic acid metabolic process
+GO:0016024,0.034443968,3.079194631,2.612562265,6,16,CDP-diacylglycerol biosynthetic process
+GO:0036315,0.034443968,3.079194631,2.612562265,6,16,cellular response to sterol
+GO:0007035,0.034443968,3.079194631,2.612562265,6,16,vacuolar acidification
+GO:0045117,0.034443968,3.079194631,2.612562265,6,16,azole transport
+GO:1900363,0.034443968,3.079194631,2.612562265,6,16,regulation of mRNA polyadenylation
+GO:0006090,0.034730568,1.521993077,20.73721298,29,127,pyruvate metabolic process
+GO:0008643,0.035108904,1.476285925,24.16620095,33,148,carbohydrate transport
+GO:0045862,0.035665529,1.284585204,60.57878751,74,371,positive regulation of proteolysis
+GO:0006576,0.035821915,1.892532378,8.49082736,14,52,cellular biogenic amine metabolic process
+GO:1902305,0.035821915,1.892532378,8.49082736,14,52,regulation of sodium ion transmembrane transport
+GO:0042558,0.036280445,2.092129111,6.204835378,11,38,pteridine-containing compound metabolic process
+GO:0006699,0.036280445,2.092129111,6.204835378,11,38,bile acid biosynthetic process
+GO:0051186,0.036438656,1.266170652,67.92661888,82,416,cofactor metabolic process
+GO:0001881,0.036629929,2.310302352,4.735269105,9,29,receptor recycling
+GO:0010817,0.03668496,1.239560148,82.62228162,98,506,regulation of hormone levels
+GO:0010565,0.03738545,1.498060444,21.71692382,30,133,regulation of cellular ketone metabolic process
+GO:0007265,0.037613653,1.280179519,60.74207265,74,372,Ras protein signal transduction
+GO:0051453,0.038565568,1.657880737,13.38938161,20,82,regulation of intracellular pH
+GO:0044728,0.038589913,1.683466622,12.5729559,19,77,DNA methylation or demethylation
+GO:0010611,0.038595643,1.987993635,7.021261086,12,43,regulation of cardiac muscle hypertrophy
+GO:0006732,0.03900175,1.284072428,58.12951039,71,356,coenzyme metabolic process
+GO:0034220,0.03982565,1.158806284,177.654234,199,1088,ion transmembrane transport
+GO:0048011,0.040070138,2.415627744,4.082128538,8,25,neurotrophin TRK receptor signaling pathway
+GO:0061099,0.040070138,2.415627744,4.082128538,8,25,negative regulation of protein tyrosine kinase activity
+GO:1905476,0.040070138,2.415627744,4.082128538,8,25,negative regulation of protein localization to membrane
+GO:0018198,0.040070138,2.415627744,4.082128538,8,25,peptidyl-cysteine modification
+GO:0030521,0.040338268,1.907684913,7.837686794,13,48,androgen receptor signaling pathway
+GO:2000272,0.040447898,2.139345283,5.551694812,10,34,negative regulation of receptor activity
+GO:0010665,0.040447898,2.139345283,5.551694812,10,34,regulation of cardiac muscle cell apoptotic process
+GO:1902652,0.041617204,1.4508378,24.49277123,33,150,secondary alcohol metabolic process
+GO:0016236,0.041926009,1.339799401,40.33142996,51,247,macroautophagy
+GO:0061726,0.042553075,1.592648162,15.18551816,22,93,mitochondrion disassembly
+GO:0000422,0.042553075,1.592648162,15.18551816,22,93,autophagy of mitochondrion
+GO:0007272,0.042636408,1.499780702,20.24735755,28,124,ensheathment of neurons
+GO:0008366,0.042636408,1.499780702,20.24735755,28,124,axon ensheathment
+GO:0051056,0.042668101,1.283544445,55.68023326,68,341,regulation of small GTPase mediated signal transduction
+GO:0044249,0.042932252,1.080214004,903.9465436,943,5536,cellular biosynthetic process
+GO:0097061,0.042965036,1.610882595,14.36909246,21,88,dendritic spine organization
+GO:1901983,0.04309142,1.748885208,10.28696392,16,63,regulation of protein acetylation
+GO:0007528,0.04309142,1.748885208,10.28696392,16,63,neuromuscular junction development
+GO:0010658,0.043326392,2.017263461,6.36812052,11,39,striated muscle cell apoptotic process
+GO:0018023,0.043326392,2.017263461,6.36812052,11,39,peptidyl-lysine trimethylation
+GO:0072337,0.043367025,2.566206639,3.428987972,7,21,modified amino acid transport
+GO:0000469,0.043367025,2.566206639,3.428987972,7,21,cleavage involved in rRNA processing
+GO:0070229,0.043367025,2.566206639,3.428987972,7,21,negative regulation of lymphocyte apoptotic process
+GO:0051016,0.043367025,2.566206639,3.428987972,7,21,barbed-end actin filament capping
+GO:1903052,0.044068841,1.433555289,25.47248208,34,156,positive regulation of proteolysis involved in cellular protein catabolic process
+GO:0007266,0.044486942,1.376706096,32.49374317,42,199,Rho protein signal transduction
+GO:0031331,0.044689149,1.274635778,57.63965496,70,353,positive regulation of cellular catabolic process
+GO:0051938,0.044868444,4.104023845,1.469566274,4,9,L-glutamate import
+GO:2000812,0.044868444,4.104023845,1.469566274,4,9,regulation of barbed-end actin filament capping
+GO:0090186,0.044868444,4.104023845,1.469566274,4,9,regulation of pancreatic juice secretion
+GO:0035701,0.044868444,4.104023845,1.469566274,4,9,hematopoietic stem cell migration
+GO:1990314,0.044868444,4.104023845,1.469566274,4,9,cellular response to insulin-like growth factor stimulus
+GO:0061626,0.044868444,4.104023845,1.469566274,4,9,pharyngeal arch artery morphogenesis
+GO:0010918,0.044868444,4.104023845,1.469566274,4,9,positive regulation of mitochondrial membrane potential
+GO:0070417,0.044868444,4.104023845,1.469566274,4,9,cellular response to cold
+GO:0018214,0.044868444,4.104023845,1.469566274,4,9,protein carboxylation
+GO:0045945,0.044868444,4.104023845,1.469566274,4,9,positive regulation of transcription from RNA polymerase III promoter
+GO:0006891,0.044992834,2.20012798,4.898554246,9,30,intra-Golgi vesicle-mediated transport
+GO:0042133,0.044992834,2.20012798,4.898554246,9,30,neurotransmitter metabolic process
+GO:0043543,0.045045726,1.364198093,34.28987972,44,210,protein acylation
+GO:0032869,0.045045726,1.364198093,34.28987972,44,210,cellular response to insulin stimulus
+GO:0032873,0.04545539,1.9257287,7.184546228,12,44,negative regulation of stress-activated MAPK cascade
+GO:0070303,0.04545539,1.9257287,7.184546228,12,44,negative regulation of stress-activated protein kinase signaling cascade
+GO:0097106,0.046078375,2.79906447,2.775847406,6,17,postsynaptic density organization
+GO:0002097,0.046078375,2.79906447,2.775847406,6,17,tRNA wobble base modification
+GO:0006684,0.046078375,2.79906447,2.775847406,6,17,sphingomyelin metabolic process
+GO:1902307,0.046078375,2.79906447,2.775847406,6,17,positive regulation of sodium ion transmembrane transport
+GO:0099084,0.046078375,2.79906447,2.775847406,6,17,postsynaptic specialization organization
+GO:1904294,0.047276383,3.206764816,2.12270684,5,13,positive regulation of ERAD pathway
+GO:0035751,0.047276383,3.206764816,2.12270684,5,13,regulation of lysosomal lumen pH
+GO:0035970,0.047276383,3.206764816,2.12270684,5,13,peptidyl-threonine dephosphorylation
+GO:0006750,0.047276383,3.206764816,2.12270684,5,13,glutathione biosynthetic process
+GO:0006896,0.047276383,3.206764816,2.12270684,5,13,Golgi to vacuole transport
+GO:0006596,0.047276383,3.206764816,2.12270684,5,13,polyamine biosynthetic process
+GO:0045472,0.047276383,3.206764816,2.12270684,5,13,response to ether
+GO:0006835,0.047292153,1.570413437,15.3488033,22,94,dicarboxylic acid transport
+GO:0046916,0.047890042,1.587077351,14.5323776,21,89,cellular transition metal ion homeostasis
+GO:0045913,0.04803796,1.797643979,8.817397643,14,54,positive regulation of carbohydrate metabolic process
+GO:0000462,0.048625461,2.053622106,5.714979954,10,35,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+GO:0010559,0.048625461,2.053622106,5.714979954,10,35,regulation of glycoprotein biosynthetic process
+GO:0038179,0.048625461,2.053622106,5.714979954,10,35,neurotrophin signaling pathway
+GO:0033143,0.049060616,1.712325349,10.45024906,16,64,regulation of intracellular steroid hormone receptor signaling pathway
+GO:0006518,0.049489137,1.175921713,127.6889807,145,782,peptide metabolic process
+GO:0009755,0.049645213,1.357516787,33.63673916,43,206,hormone-mediated signaling pathway

@@ -1,0 +1,46 @@
+library,individual,day,sex,svl,mass,mix,tissue
+Pm_1_heart,Pm_1,1,F,77.5,107.5,1,heart
+Pm_10_heart,Pm_10,2,F,63.4,82.2,1,heart
+Pm_3_heart,Pm_3,1,M,62.8,65.5,2,heart
+Pm_5_heart,Pm_5,1,M,76.5,136.9,1,heart
+Pm_8_heart,Pm_8,2,M,69,89,2,heart
+Pm_1_kidney,Pm_1,1,F,77.5,107.5,2,kidney
+Pm_10_kidney,Pm_10,2,F,63.4,82.2,2,kidney
+Pm_3_kidney,Pm_3,1,M,62.8,65.5,1,kidney
+Pm_5_kidney,Pm_5,1,M,76.5,136.9,2,kidney
+Pm_8_kidney,Pm_8,2,M,69,89,1,kidney
+Pm_1_liver,Pm_1,1,F,77.5,107.5,1,liver
+Pm_10_liver,Pm_10,2,F,63.4,82.2,1,liver
+Pm_3_liver,Pm_3,1,M,62.8,65.5,2,liver
+Pm_5_liver,Pm_5,1,M,76.5,136.9,1,liver
+Pm_8_liver,Pm_8,2,M,69,89,2,liver
+Pm_1,Pm_1,1,F,77.5,107.5,1,venom gland
+Pm_10,Pm_10,2,F,63.4,82.2,2,venom gland
+Pm_11,Pm_11,2,F,76,122.1,1,venom gland
+Pm_12,Pm_12,2,M,98.8,261.2,2,venom gland
+Pm_13,Pm_13,2,F,61.5,54.6,2,venom gland
+Pm_14,Pm_14,4,M,56.3,44.5,1,venom gland
+Pm_15,Pm_15,4,F,69.5,86.7,2,venom gland
+Pm_16,Pm_16,4,M,79.3,119.4,1,venom gland
+Pm_17,Pm_17,4,F,68.7,73.9,2,venom gland
+Pm_18,Pm_18,4,M,61.8,64.3,1,venom gland
+Pm_19,Pm_19,4,F,74,91.6,1,venom gland
+Pm_2,Pm_2,1,M,62.2,64.4,2,venom gland
+Pm_20,Pm_20,4,F,79.9,128.9,2,venom gland
+Pm_21,Pm_21,4,F,71.3,109.4,1,venom gland
+Pm_22,Pm_22,8,F,68.2,79.9,2,venom gland
+Pm_23,Pm_23,8,F,58.1,55,1,venom gland
+Pm_24,Pm_24,8,F,69,101.9,1,venom gland
+Pm_25,Pm_25,8,M,63.1,74.4,2,venom gland
+Pm_26,Pm_26,8,F,65.4,74.1,1,venom gland
+Pm_27,Pm_27,8,F,73.7,119.1,2,venom gland
+Pm_28,Pm_28,8,M,69.6,88,2,venom gland
+Pm_29,Pm_29,8,M,65.3,71.8,1,venom gland
+Pm_3,Pm_3,1,M,62.8,65.5,2,venom gland
+Pm_30,Pm_30,2,F,70,96.6,2,venom gland
+Pm_4,Pm_4,1,F,77,97.6,1,venom gland
+Pm_5,Pm_5,1,M,76.5,136.9,2,venom gland
+Pm_6,Pm_6,1,F,78.7,149.5,1,venom gland
+Pm_7,Pm_7,2,F,68.1,87,1,venom gland
+Pm_8,Pm_8,2,M,69,89,1,venom gland
+Pm_9,Pm_9,2,F,109.3,295.6,2,venom gland

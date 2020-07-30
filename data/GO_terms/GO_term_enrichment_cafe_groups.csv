@@ -1,0 +1,787 @@
+GOBPID,Pvalue,OddsRatio,ExpCount,Count,Size,Term
+GO:0016567,3.31E-52,8.298176478,19.3209794,109,743,protein ubiquitination
+GO:0032446,5.29E-49,7.519782327,21.19326812,110,815,protein modification by small protein conjugation
+GO:0070647,1.80E-46,6.632016632,25.14587764,116,967,protein modification by small protein conjugation or removal
+GO:0000209,3.02E-37,12.4126052,6.579014521,57,253,protein polyubiquitination
+GO:0043412,2.65E-24,2.808526872,102.9498754,198,3959,macromolecule modification
+GO:1902187,5.41E-24,60.39969834,0.858132329,20,33,negative regulation of viral release from host cell
+GO:0070534,1.97E-23,32.45758377,1.326204508,23,51,protein K63-linked ubiquitination
+GO:1902186,1.08E-20,28.47089723,1.300200498,21,50,regulation of viral release from host cell
+GO:1900041,1.82E-20,116.4116223,0.520080199,15,20,negative regulation of interleukin-2 secretion
+GO:0019076,4.73E-20,25.79691339,1.378212528,21,53,viral release from host cell
+GO:0035890,4.73E-20,25.79691339,1.378212528,21,53,exit from host
+GO:0035891,4.73E-20,25.79691339,1.378212528,21,53,exit from host cell
+GO:0052192,4.73E-20,25.79691339,1.378212528,21,53,movement in environment of other organism involved in symbiotic interaction
+GO:0052126,4.73E-20,25.79691339,1.378212528,21,53,movement in host environment
+GO:0016569,4.80E-20,4.961303462,14.27620147,58,549,covalent chromatin modification
+GO:0006464,2.08E-19,2.535655188,96.73491707,179,3720,cellular protein modification process
+GO:0036211,2.08E-19,2.535655188,96.73491707,179,3720,protein modification process
+GO:0090281,5.35E-19,72.74364407,0.598092229,15,23,negative regulation of calcium ion import
+GO:0032897,7.84E-19,33.47038328,1.014156389,18,39,negative regulation of viral transcription
+GO:0006325,2.09E-18,4.226434654,17.9947749,63,692,chromatin organization
+GO:1900040,7.85E-18,52.89456306,0.676104259,15,26,regulation of interleukin-2 secretion
+GO:0045814,7.13E-17,11.5016735,2.886445106,25,111,"negative regulation of gene expression, epigenetic"
+GO:0070970,7.34E-17,41.55223106,0.754116289,15,29,interleukin-2 secretion
+GO:0051127,7.34E-17,41.55223106,0.754116289,15,29,positive regulation of actin nucleation
+GO:1903901,1.06E-16,13.13744856,2.392368917,23,92,negative regulation of viral life cycle
+GO:0048525,4.17E-16,11.27793494,2.808433076,24,108,negative regulation of viral process
+GO:0072643,4.36E-16,28.25948808,0.988152379,16,38,interferon-gamma secretion
+GO:0006338,5.60E-16,9.716746456,3.432529315,26,132,chromatin remodeling
+GO:0040029,1.01E-15,6.094023324,7.12509873,36,274,"regulation of gene expression, epigenetic"
+GO:0046782,1.04E-15,13.73427518,2.106324807,21,81,regulation of viral transcription
+GO:0032703,4.62E-15,23.01905789,1.118172428,16,43,negative regulation of interleukin-2 production
+GO:0034754,5.72E-15,11.3757454,2.548392976,22,98,cellular hormone metabolic process
+GO:0002820,1.07E-14,21.42885839,1.170180448,16,45,negative regulation of adaptive immune response
+GO:0051276,1.63E-14,3.092549609,28.31836685,74,1089,chromosome organization
+GO:1903900,3.01E-14,7.587945031,4.368673674,27,168,regulation of viral life cycle
+GO:0008152,3.06E-14,2.352801688,270.8057598,342,10414,metabolic process
+GO:0051865,6.16E-14,16.13138686,1.508232578,17,58,protein autoubiquitination
+GO:0051125,6.85E-14,21.52811407,1.092168418,15,42,regulation of actin nucleation
+GO:1903556,8.46E-14,15.7463214,1.534236588,17,59,negative regulation of tumor necrosis factor superfamily cytokine production
+GO:0034314,2.23E-13,19.3716707,1.170180448,15,45,Arp2/3 complex-mediated actin nucleation
+GO:0043901,2.27E-13,7.236949058,4.368673674,26,168,negative regulation of multi-organism process
+GO:0050792,2.90E-13,5.996818262,5.954918282,30,229,regulation of viral process
+GO:0032436,5.08E-13,12.30346598,1.950300747,18,75,positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0042572,5.70E-13,33.00206044,0.676104259,12,26,retinol metabolic process
+GO:0044267,6.12E-13,2.058983004,121.4127225,190,4669,cellular protein metabolic process
+GO:0032720,7.22E-13,15.14563107,1.482228568,16,57,negative regulation of tumor necrosis factor production
+GO:0090279,9.26E-13,17.08837772,1.274196488,15,49,regulation of calcium ion import
+GO:0071704,1.15E-12,2.147443759,256.5035543,325,9864,organic substance metabolic process
+GO:0032663,1.68E-12,11.30771046,2.080320797,18,80,regulation of interleukin-2 production
+GO:0019083,3.05E-12,7.915307091,3.406525305,22,131,viral transcription
+GO:0043903,3.57E-12,5.367716963,6.553010511,30,252,"regulation of symbiosis, encompassing mutualism through parasitism"
+GO:2000058,6.63E-12,7.565767868,3.536545355,22,136,regulation of ubiquitin-dependent protein catabolic process
+GO:0032623,7.68E-12,10.15609756,2.262348867,18,87,interleukin-2 production
+GO:0002084,8.43E-12,152.6571429,0.2600401,8,10,protein depalmitoylation
+GO:0006513,1.10E-11,12.16828479,1.742268668,16,67,protein monoubiquitination
+GO:2000060,1.15E-11,9.868773617,2.314356887,18,89,positive regulation of ubiquitin-dependent protein catabolic process
+GO:0044238,1.48E-11,2.027085423,247.0640987,313,9501,primary metabolic process
+GO:0019080,1.61E-11,7.184770115,3.692569415,22,142,viral gene expression
+GO:0045010,1.85E-11,13.19640106,1.534236588,15,59,actin nucleation
+GO:0044237,2.05E-11,2.023260932,249.7425117,315,9604,cellular metabolic process
+GO:0016570,2.44E-11,3.897805318,11.46776839,39,441,histone modification
+GO:0043900,2.45E-11,4.163176831,9.933531806,36,382,regulation of multi-organism process
+GO:0050710,4.49E-11,10.88332482,1.898292727,16,73,negative regulation of cytokine secretion
+GO:0006511,5.29E-11,3.520107479,13.93814934,43,536,ubiquitin-dependent protein catabolic process
+GO:0006397,6.40E-11,3.837060001,11.31174433,38,435,mRNA processing
+GO:0070206,6.56E-11,11.84612344,1.664256638,15,64,protein trimerization
+GO:0019941,6.71E-11,3.490877734,14.04216538,43,540,modification-dependent protein catabolic process
+GO:0051926,8.33E-11,11.60847458,1.690260648,15,65,negative regulation of calcium ion transport
+GO:0098734,8.86E-11,76.31904762,0.31204812,8,12,macromolecule depalmitoylation
+GO:1901360,9.95E-11,1.885689107,147.3127164,211,5665,organic cyclic compound metabolic process
+GO:1901800,1.07E-10,8.435615633,2.626405006,18,101,positive regulation of proteasomal protein catabolic process
+GO:0043632,1.14E-10,3.426800472,14.27620147,43,549,modification-dependent macromolecule catabolic process
+GO:0032434,1.26E-10,8.33466899,2.652409016,18,102,regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0051252,1.33E-10,1.995542219,88.2056018,144,3392,regulation of RNA metabolic process
+GO:0019219,1.41E-10,1.969591282,95.04465642,152,3655,regulation of nucleobase-containing compound metabolic process
+GO:0035601,2.00E-10,7.475932923,3.068473176,19,118,protein deacylation
+GO:0051091,2.41E-10,5.0936858,5.902910262,26,227,positive regulation of DNA-binding transcription factor activity
+GO:0036353,2.64E-10,133.2577197,0.23403609,7,9,histone H2A-K119 monoubiquitination
+GO:0030163,2.70E-10,2.825132917,22.54547664,56,867,protein catabolic process
+GO:0098732,2.70E-10,7.326974751,3.120481196,19,120,macromolecule deacylation
+GO:0030838,2.87E-10,7.86396273,2.782429066,18,107,positive regulation of actin filament polymerization
+GO:0043044,3.07E-10,13.54099642,1.300200498,13,50,ATP-dependent chromatin remodeling
+GO:0042445,4.15E-10,5.38251768,5.174797983,24,199,hormone metabolic process
+GO:0009057,4.48E-10,2.505844216,31.49085607,69,1211,macromolecule catabolic process
+GO:0042159,5.13E-10,50.87301587,0.364056139,8,14,lipoprotein catabolic process
+GO:0051701,5.17E-10,4.896236521,6.110942342,26,235,interaction with host
+GO:1903050,5.65E-10,5.290799867,5.252810013,24,202,regulation of proteolysis involved in cellular protein catabolic process
+GO:0044260,9.19E-10,1.817166992,191.2854973,253,7356,cellular macromolecule metabolic process
+GO:1903362,1.12E-09,4.88562152,5.876906252,25,226,regulation of cellular protein catabolic process
+GO:1903364,1.26E-09,6.602798638,3.406525305,19,131,positive regulation of cellular protein catabolic process
+GO:1903052,1.30E-09,7.06518847,3.042469166,18,117,positive regulation of proteolysis involved in cellular protein catabolic process
+GO:0051603,1.45E-09,2.998215328,17.29266663,46,665,proteolysis involved in cellular protein catabolic process
+GO:0051171,1.67E-09,1.816648691,134.8047877,193,5184,regulation of nitrogen compound metabolic process
+GO:0008209,1.84E-09,26.46631173,0.572088219,9,22,androgen metabolic process
+GO:0060255,2.49E-09,1.799743506,140.0315937,198,5385,regulation of macromolecule metabolic process
+GO:0032609,2.59E-09,6.723405253,3.172489216,18,122,interferon-gamma production
+GO:0090304,2.60E-09,1.823834197,120.008506,176,4615,nucleic acid metabolic process
+GO:0033522,2.96E-09,24.57432663,0.598092229,9,23,histone H2A ubiquitination
+GO:0044257,3.57E-09,2.868436831,18.41083905,47,708,cellular protein catabolic process
+GO:0016101,3.95E-09,9.31292687,1.872288717,14,72,diterpenoid metabolic process
+GO:0042147,4.45E-09,7.553398058,2.548392976,16,98,"retrograde transport, endosome to Golgi"
+GO:0010390,4.92E-09,17.40865594,0.832128319,10,32,histone monoubiquitination
+GO:0035518,6.82E-09,30.51619048,0.468072179,8,18,histone H2A monoubiquitination
+GO:0051090,8.23E-09,3.658603707,9.517467647,31,366,regulation of DNA-binding transcription factor activity
+GO:0006721,8.27E-09,8.709911173,1.976304757,14,76,terpenoid metabolic process
+GO:0044265,8.48E-09,2.51771024,25.45792575,57,979,cellular macromolecule catabolic process
+GO:0070509,8.66E-09,7.831784569,2.314356887,15,89,calcium ion import
+GO:0071103,9.26E-09,4.519135567,6.032930312,24,232,DNA conformation change
+GO:0016070,9.27E-09,1.808904197,107.6045932,160,4138,RNA metabolic process
+GO:0019538,9.67E-09,1.762295835,137.5352087,193,5289,protein metabolic process
+GO:0061136,1.11E-08,5.370520622,4.290661644,20,165,regulation of proteasomal protein catabolic process
+GO:1901575,1.15E-08,2.086084005,48.91354274,89,1881,organic substance catabolic process
+GO:0002819,1.19E-08,6.02333894,3.484537335,18,134,regulation of adaptive immune response
+GO:0001523,1.47E-08,9.268228469,1.742268668,13,67,retinoid metabolic process
+GO:0080090,1.59E-08,1.746674469,138.341333,193,5320,regulation of primary metabolic process
+GO:0010468,1.62E-08,1.801577424,103.1319035,154,3966,regulation of gene expression
+GO:1903555,1.74E-08,6.273711042,3.172489216,17,122,regulation of tumor necrosis factor superfamily cytokine production
+GO:0008380,1.75E-08,3.52938102,9.829515766,31,378,RNA splicing
+GO:0016574,1.90E-08,12.05590956,1.196184458,11,46,histone ubiquitination
+GO:0043170,2.26E-08,1.735126769,216.0153108,272,8307,macromolecule metabolic process
+GO:0006351,2.51E-08,1.834702408,86.43732912,134,3324,"transcription, DNA-templated"
+GO:0071706,2.52E-08,6.098292331,3.250501246,17,125,tumor necrosis factor superfamily cytokine production
+GO:0043161,2.63E-08,3.63802021,8.919375418,29,343,proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0032392,2.70E-08,7.822866345,2.158332827,14,83,DNA geometric change
+GO:0019058,2.88E-08,3.721114865,8.425299228,28,324,viral life cycle
+GO:0032273,3.00E-08,5.631904013,3.692569415,18,142,positive regulation of protein polymerization
+GO:0097659,3.27E-08,1.824694047,86.80138526,134,3338,nucleic acid-templated transcription
+GO:1901565,3.32E-08,2.306783031,30.65872775,63,1179,organonitrogen compound catabolic process
+GO:0043271,3.62E-08,5.932355713,3.328513275,17,128,negative regulation of ion transport
+GO:0034308,3.65E-08,8.480130692,1.872288717,13,72,primary alcohol metabolic process
+GO:0010498,3.72E-08,3.328229665,10.71365211,32,412,proteasomal protein catabolic process
+GO:0006725,3.75E-08,1.718127673,141.6178383,195,5446,cellular aromatic compound metabolic process
+GO:0006703,4.12E-08,33.30195962,0.390060149,7,15,estrogen biosynthetic process
+GO:0032774,4.17E-08,1.815478569,87.13943739,134,3351,RNA biosynthetic process
+GO:0050709,5.13E-08,5.775152602,3.406525305,17,131,negative regulation of protein secretion
+GO:0031323,5.17E-08,1.708778269,141.2277781,194,5431,regulation of cellular metabolic process
+GO:0006996,6.10E-08,1.782998166,93.71845191,141,3604,organelle organization
+GO:1901362,6.45E-08,1.747733138,107.8646333,157,4148,organic cyclic compound biosynthetic process
+GO:0016197,6.56E-08,4.355329949,5.694878182,22,219,endosomal transport
+GO:0016071,6.82E-08,2.736714874,17.03262653,42,655,mRNA metabolic process
+GO:0046483,7.66E-08,1.69706409,140.967738,193,5421,heterocycle metabolic process
+GO:0032680,8.64E-08,5.947348768,3.120481196,16,120,regulation of tumor necrosis factor production
+GO:0032640,1.09E-07,5.834401905,3.172489216,16,122,tumor necrosis factor production
+GO:0006807,1.14E-07,1.700995572,234.5561699,287,9020,nitrogen compound metabolic process
+GO:0016032,1.25E-07,2.705935452,16.77258643,41,645,viral process
+GO:0008210,1.44E-07,17.94285714,0.650100249,8,25,estrogen metabolic process
+GO:0002792,1.70E-07,5.26329927,3.692569415,17,142,negative regulation of peptide secretion
+GO:0006355,1.77E-07,1.77915031,83.21283189,127,3200,"regulation of transcription, DNA-templated"
+GO:0030833,1.91E-07,4.912435589,4.160641594,18,160,regulation of actin filament polymerization
+GO:0000398,1.95E-07,3.780661131,7.07309071,24,272,"mRNA splicing, via spliceosome"
+GO:0000377,1.95E-07,3.780661131,7.07309071,24,272,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile"
+GO:0050777,2.08E-07,5.179761289,3.744577435,17,144,negative regulation of immune response
+GO:0031331,2.12E-07,3.535430486,8.165259129,26,314,positive regulation of cellular catabolic process
+GO:0000375,2.23E-07,3.749940594,7.12509873,24,274,"RNA splicing, via transesterification reactions"
+GO:0006720,2.33E-07,6.419887279,2.548392976,14,98,isoprenoid metabolic process
+GO:0015727,2.34E-07,94.73404255,0.18202807,5,7,lactate transport
+GO:0035873,2.34E-07,94.73404255,0.18202807,5,7,lactate transmembrane transport
+GO:1903506,2.41E-07,1.767040824,83.65490005,127,3217,regulation of nucleic acid-templated transcription
+GO:2001141,2.68E-07,1.762798638,83.81092411,127,3223,regulation of RNA biosynthetic process
+GO:0040013,3.22E-07,3.554252199,7.801202989,25,300,negative regulation of locomotion
+GO:0016482,3.34E-07,4.711502966,4.316665654,18,166,cytosolic transport
+GO:0006139,4.04E-07,1.649720422,136.4430403,185,5247,nucleobase-containing compound metabolic process
+GO:0019222,4.48E-07,1.635723512,150.7192418,200,5796,regulation of metabolic process
+GO:0006710,4.51E-07,Inf,0.10401604,4,4,androgen catabolic process
+GO:2000112,4.66E-07,1.718070252,92.44425542,136,3555,regulation of cellular macromolecule biosynthetic process
+GO:0055114,6.33E-07,2.229600987,26.75812625,54,1029,oxidation-reduction process
+GO:0034728,8.84E-07,5.672616323,2.834437086,14,109,nucleosome organization
+GO:0042176,9.29E-07,3.164386937,9.387447597,27,361,regulation of protein catabolic process
+GO:0030041,9.41E-07,4.354847561,4.628713774,18,178,actin filament polymerization
+GO:0010817,9.43E-07,2.742715373,13.60009721,34,523,regulation of hormone levels
+GO:0010556,9.44E-07,1.688648978,94.44656419,137,3632,regulation of macromolecule biosynthetic process
+GO:0044403,9.93E-07,2.479102018,18.15079895,41,698,symbiont process
+GO:1901564,1.03E-06,1.603817505,163.7732548,212,6298,organonitrogen compound metabolic process
+GO:0045732,1.04E-06,3.939982084,5.642870162,20,217,positive regulation of protein catabolic process
+GO:0006366,1.07E-06,1.870215451,51.64396379,86,1986,transcription by RNA polymerase II
+GO:0008064,1.11E-06,4.300542005,4.680721794,18,180,regulation of actin polymerization or depolymerization
+GO:0110053,1.13E-06,3.626638557,6.709034571,22,258,regulation of actin filament organization
+GO:0032956,1.36E-06,3.175419776,8.997387448,26,346,regulation of actin cytoskeleton organization
+GO:0042446,1.50E-06,6.484290358,2.158332827,12,83,hormone biosynthetic process
+GO:0030832,1.53E-06,4.195856597,4.784737833,18,184,regulation of actin filament length
+GO:0001818,1.55E-06,3.550272878,6.839054621,22,263,negative regulation of cytokine production
+GO:0051924,1.70E-06,3.657606241,6.344978431,21,244,regulation of calcium ion transport
+GO:0051224,1.72E-06,4.37918897,4.342669664,17,167,negative regulation of protein transport
+GO:0031329,1.89E-06,2.41016748,18.61887113,41,716,regulation of cellular catabolic process
+GO:1904950,2.39E-06,4.264369451,4.446685704,17,171,negative regulation of establishment of protein localization
+GO:0045087,3.47E-06,2.320586834,19.76304757,42,760,innate immune response
+GO:0009896,3.66E-06,2.922679451,10.08955587,27,388,positive regulation of catabolic process
+GO:0051253,4.30E-06,2.035680144,30.73673978,57,1182,negative regulation of RNA metabolic process
+GO:0032970,4.43E-06,2.889912206,10.19357191,27,392,regulation of actin filament-based process
+GO:0031326,4.44E-06,1.626244524,97.95710553,138,3767,regulation of cellular biosynthetic process
+GO:0045934,4.56E-06,1.984354967,33.80521295,61,1300,negative regulation of nucleobase-containing compound metabolic process
+GO:1902903,4.59E-06,3.026409075,9.023391458,25,347,regulation of supramolecular fiber organization
+GO:0050663,4.61E-06,3.539260453,6.214958381,20,239,cytokine secretion
+GO:1901576,4.70E-06,1.562904321,146.7926362,191,5645,organic substance biosynthetic process
+GO:0006702,4.72E-06,31.57013396,0.28604411,5,11,androgen biosynthetic process
+GO:0009058,4.77E-06,1.561257806,148.716933,193,5719,biosynthetic process
+GO:0006396,4.86E-06,2.24039797,21.42730421,44,824,RNA processing
+GO:0010467,4.91E-06,1.580042652,125.365332,168,4821,gene expression
+GO:0018130,6.15E-06,1.603132816,103.9120238,144,3996,heterocycle biosynthetic process
+GO:0034654,6.25E-06,1.605833416,102.1437511,142,3928,nucleobase-containing compound biosynthetic process
+GO:0019438,6.99E-06,1.598213993,104.1460599,144,4005,aromatic compound biosynthetic process
+GO:0009056,7.03E-06,1.740619332,59.05510663,92,2271,catabolic process
+GO:1902905,7.10E-06,3.719733925,5.330822043,18,205,positive regulation of supramolecular fiber organization
+GO:0070936,7.26E-06,9.523214286,1.040160399,8,40,protein K48-linked ubiquitination
+GO:0045862,8.24E-06,2.992955065,8.737347348,24,336,positive regulation of proteolysis
+GO:0010638,8.63E-06,2.386672851,16.38252628,36,630,positive regulation of organelle organization
+GO:0002250,8.66E-06,2.983203113,8.763351358,24,337,adaptive immune response
+GO:0031334,9.05E-06,3.367647059,6.501002491,20,250,positive regulation of protein complex assembly
+GO:1903311,9.59E-06,3.483006756,5.980922292,19,230,regulation of mRNA metabolic process
+GO:0034641,9.97E-06,1.533963185,154.073759,197,5925,cellular nitrogen compound metabolic process
+GO:0008154,1.06E-05,3.602729685,5.486846102,18,211,actin polymerization or depolymerization
+GO:0032271,1.13E-05,3.583932613,5.512850112,18,212,regulation of protein polymerization
+GO:0044249,1.20E-05,1.533599859,144.0102072,186,5538,cellular biosynthetic process
+GO:0000122,1.22E-05,2.214240833,20.1010997,41,773,negative regulation of transcription by RNA polymerase II
+GO:0009889,1.23E-05,1.585906803,99.80339024,138,3838,regulation of biosynthetic process
+GO:0071824,1.40E-05,3.683821318,5.070781943,17,195,protein-DNA complex subunit organization
+GO:0097039,1.48E-05,50.40251572,0.18202807,4,7,protein linear polyubiquitination
+GO:0006706,1.56E-05,14.23133886,0.572088219,6,22,steroid catabolic process
+GO:0050707,1.65E-05,3.475097561,5.668874172,18,218,regulation of cytokine secretion
+GO:1903531,1.71E-05,3.62207794,5.148793973,17,198,negative regulation of secretion by cell
+GO:0043484,1.80E-05,4.943548387,2.730421046,12,105,regulation of RNA splicing
+GO:0006346,1.92E-05,21.04281587,0.364056139,5,14,methylation-dependent chromatin silencing
+GO:0015718,2.04E-05,3.951623603,4.186645604,15,161,monocarboxylic acid transport
+GO:0051259,2.16E-05,2.405630198,14.38021751,32,553,protein complex oligomerization
+GO:0043486,2.24E-05,9.855546758,0.884136339,7,34,histone exchange
+GO:0016573,2.38E-05,4.136269045,3.744577435,14,144,histone acetylation
+GO:0009894,2.59E-05,2.116071429,21.47931223,42,826,regulation of catabolic process
+GO:0016575,2.62E-05,5.194363028,2.392368917,11,92,histone deacetylation
+GO:0006357,2.93E-05,1.742913001,47.92539036,76,1843,regulation of transcription by RNA polymerase II
+GO:0032508,2.95E-05,5.700207098,2.002308767,10,77,DNA duplex unwinding
+GO:0018393,3.00E-05,4.042206967,3.822589465,14,147,internal peptidyl-lysine acetylation
+GO:0007276,3.00E-05,2.266877451,16.66857039,35,641,gamete generation
+GO:2000113,3.07E-05,1.886944307,32.86906859,57,1264,negative regulation of cellular macromolecule biosynthetic process
+GO:0044419,3.13E-05,2.117060351,20.93322802,41,805,interspecies interaction between organisms
+GO:0051495,3.20E-05,3.291642585,5.954918282,18,229,positive regulation of cytoskeleton organization
+GO:0045892,3.23E-05,1.951968711,28.34437086,51,1090,"negative regulation of transcription, DNA-templated"
+GO:0010629,3.40E-05,1.785086194,41.65842396,68,1602,negative regulation of gene expression
+GO:0002376,3.40E-05,1.659013231,61.44747555,92,2363,immune system process
+GO:0043543,3.64E-05,3.394299257,5.460842092,17,210,protein acylation
+GO:1903313,3.88E-05,6.239270992,1.664256638,9,64,positive regulation of mRNA metabolic process
+GO:0035372,4.00E-05,17.21470019,0.416064159,5,16,protein localization to microtubule
+GO:0006475,4.04E-05,3.923198984,3.926605505,14,151,internal protein amino acid acetylation
+GO:0034645,4.26E-05,1.514500129,116.8360168,154,4493,cellular macromolecule biosynthetic process
+GO:0000733,5.12E-05,30.23773585,0.23403609,4,9,DNA strand renaturation
+GO:0042447,5.12E-05,30.23773585,0.23403609,4,9,hormone catabolic process
+GO:0018205,5.38E-05,2.638431549,9.803511756,24,377,peptidyl-lysine modification
+GO:0033043,5.63E-05,1.860890481,32.03694028,55,1232,regulation of organelle organization
+GO:1902679,5.68E-05,1.904843656,28.9684671,51,1114,negative regulation of RNA biosynthetic process
+GO:1903507,5.68E-05,1.904843656,28.9684671,51,1114,negative regulation of nucleic acid-templated transcription
+GO:0044271,5.77E-05,1.502604254,117.486117,154,4518,cellular nitrogen compound biosynthetic process
+GO:0009059,6.12E-05,1.498180818,119.4624218,156,4594,macromolecule biosynthetic process
+GO:0018394,6.65E-05,3.730844069,4.108633574,14,158,peptidyl-lysine acetylation
+GO:0035879,6.85E-05,113.1529412,0.10401604,3,4,plasma membrane lactate transport
+GO:0006694,7.95E-05,3.471148517,4.706725804,15,181,steroid biosynthetic process
+GO:0048024,7.98E-05,5.623459447,1.820280697,9,70,"regulation of mRNA splicing, via spliceosome"
+GO:0051048,8.16E-05,3.161935658,5.824898232,17,224,negative regulation of secretion
+GO:0033673,8.75E-05,2.920542768,7.02108269,19,270,negative regulation of kinase activity
+GO:0010558,9.49E-05,1.801110255,34.24728112,57,1317,negative regulation of macromolecule biosynthetic process
+GO:0010959,9.72E-05,2.589728682,9.543471657,23,367,regulation of metal ion transport
+GO:0048026,9.99E-05,13.52330294,0.494076189,5,19,"positive regulation of mRNA splicing, via spliceosome"
+GO:0006333,0.00010187,4.063478557,3.250501246,12,125,chromatin assembly or disassembly
+GO:0070317,0.000104335,9.482819905,0.780120299,6,30,negative regulation of G0 to G1 transition
+GO:0043122,0.000106109,3.220657754,5.382830063,16,207,regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0050684,0.000106542,4.378622102,2.782429066,11,107,regulation of mRNA processing
+GO:0006476,0.000115905,4.333209721,2.808433076,11,108,protein deacetylation
+GO:0051348,0.000126013,2.747540297,7.827206999,20,301,negative regulation of transferase activity
+GO:0006323,0.000131538,3.688496207,3.848593475,13,148,DNA packaging
+GO:0007283,0.000136862,2.292463158,13.08001701,28,503,spermatogenesis
+GO:0006469,0.000141608,2.900867435,6.683030561,18,257,negative regulation of protein kinase activity
+GO:0070316,0.000152381,8.752278527,0.832128319,6,32,regulation of G0 to G1 transition
+GO:0051258,0.000161815,2.774440616,7.35913482,19,283,protein polymerization
+GO:0044248,0.000167727,1.632534142,51.38392369,77,1976,cellular catabolic process
+GO:0097052,0.000167947,56.57294118,0.13002005,3,5,L-kynurenine metabolic process
+GO:1902816,0.000167947,56.57294118,0.13002005,3,5,regulation of protein localization to microtubule
+GO:1902817,0.000167947,56.57294118,0.13002005,3,5,negative regulation of protein localization to microtubule
+GO:0051493,0.000169655,2.225465043,13.93814934,29,536,regulation of cytoskeleton organization
+GO:0002791,0.000173689,2.294580835,12.58594082,27,484,regulation of peptide secretion
+GO:0016043,0.000176545,1.434061867,153.0856067,189,5887,cellular component organization
+GO:0045023,0.000182196,8.42759347,0.858132329,6,33,G0 to G1 transition
+GO:0006305,0.000193599,5.635626102,1.612248618,8,62,DNA alkylation
+GO:0006306,0.000193599,5.635626102,1.612248618,8,62,DNA methylation
+GO:0051172,0.00019403,1.606347709,54.99848107,81,2115,negative regulation of nitrogen compound metabolic process
+GO:0016458,0.00023767,2.983316052,5.772890212,16,222,gene silencing
+GO:0032268,0.000242828,1.570770057,60.51133119,87,2327,regulation of cellular protein metabolic process
+GO:0048232,0.000252375,2.20159919,13.5740932,28,522,male gamete generation
+GO:0031327,0.000256512,1.725067385,35.57348563,57,1368,negative regulation of cellular biosynthetic process
+GO:0006473,0.000280856,3.212357893,4.706725804,14,181,protein acetylation
+GO:0002682,0.000282539,1.770389207,30.91876785,51,1189,regulation of immune system process
+GO:0043123,0.000303342,3.361755129,4.186645604,13,161,positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0035093,0.000329404,37.71294118,0.15602406,3,6,"spermatogenesis, exchange of chromosomal proteins"
+GO:0002165,0.000329404,37.71294118,0.15602406,3,6,instar larval or pupal development
+GO:0032535,0.000333894,2.413639163,9.725499727,22,374,regulation of cellular component size
+GO:0010605,0.000340726,1.548319328,61.99355975,88,2384,negative regulation of macromolecule metabolic process
+GO:0050708,0.000341337,2.266955678,11.7538125,25,452,regulation of protein secretion
+GO:0006369,0.00035029,7.338327473,0.962148369,6,37,termination of RNA polymerase II transcription
+GO:0006955,0.000361597,1.670143864,39.31806307,61,1512,immune response
+GO:0008202,0.00038414,2.575786012,7.879215019,19,303,steroid metabolic process
+GO:0007249,0.000389351,2.843401654,6.032930312,16,232,I-kappaB kinase/NF-kappaB signaling
+GO:0000380,0.000406952,7.108560427,0.988152379,6,38,"alternative mRNA splicing, via spliceosome"
+GO:0007015,0.000414991,2.372278944,9.881523786,22,380,actin filament organization
+GO:0043388,0.00042012,5.777909739,1.378212528,7,53,positive regulation of DNA binding
+GO:0001701,0.000453224,2.410165848,9.283431557,21,357,in utero embryonic development
+GO:0009890,0.000466435,1.678938439,36.43161796,57,1401,negative regulation of biosynthetic process
+GO:0034720,0.000565333,28.28294118,0.18202807,3,7,histone H3-K4 demethylation
+GO:1905666,0.000565333,28.28294118,0.18202807,3,7,regulation of protein localization to endosome
+GO:1905668,0.000565333,28.28294118,0.18202807,3,7,positive regulation of protein localization to endosome
+GO:0090308,0.000565333,28.28294118,0.18202807,3,7,regulation of methylation-dependent chromatin silencing
+GO:0010216,0.000565333,28.28294118,0.18202807,3,7,maintenance of DNA methylation
+GO:0000381,0.000584396,8.601439931,0.702108269,5,27,"regulation of alternative mRNA splicing, via spliceosome"
+GO:0002683,0.000630185,2.293582745,10.19357191,22,392,negative regulation of immune system process
+GO:0043254,0.000669312,2.236415088,10.92168418,23,420,regulation of protein complex assembly
+GO:0034092,0.00067467,Inf,0.05200802,2,2,negative regulation of maintenance of sister chromatid cohesion
+GO:1904907,0.00067467,Inf,0.05200802,2,2,"regulation of maintenance of mitotic sister chromatid cohesion, telomeric"
+GO:1904908,0.00067467,Inf,0.05200802,2,2,"negative regulation of maintenance of mitotic sister chromatid cohesion, telomeric"
+GO:0034183,0.00067467,Inf,0.05200802,2,2,negative regulation of maintenance of mitotic sister chromatid cohesion
+GO:0034721,0.00067467,Inf,0.05200802,2,2,"histone H3-K4 demethylation, trimethyl-H3-K4-specific"
+GO:0099403,0.00067467,Inf,0.05200802,2,2,"maintenance of mitotic sister chromatid cohesion, telomeric"
+GO:0099404,0.00067467,Inf,0.05200802,2,2,"mitotic sister chromatid cohesion, telomeric"
+GO:0070983,0.00067467,Inf,0.05200802,2,2,dendrite guidance
+GO:0051780,0.00067467,Inf,0.05200802,2,2,behavioral response to nutrient
+GO:0035172,0.00067467,Inf,0.05200802,2,2,hemocyte proliferation
+GO:0035222,0.00067467,Inf,0.05200802,2,2,wing disc pattern formation
+GO:0035206,0.00067467,Inf,0.05200802,2,2,regulation of hemocyte proliferation
+GO:0035207,0.00067467,Inf,0.05200802,2,2,negative regulation of hemocyte proliferation
+GO:0033092,0.00067467,Inf,0.05200802,2,2,positive regulation of immature T cell proliferation in thymus
+GO:0006660,0.00067467,Inf,0.05200802,2,2,phosphatidylserine catabolic process
+GO:0003226,0.00067467,Inf,0.05200802,2,2,right ventricular compact myocardium morphogenesis
+GO:0007447,0.00067467,Inf,0.05200802,2,2,imaginal disc pattern formation
+GO:0002790,0.000788926,2.007961869,15.31636187,29,589,peptide secretion
+GO:0050685,0.000823707,7.883668243,0.754116289,5,29,positive regulation of mRNA processing
+GO:0044728,0.000858854,4.406349206,2.002308767,8,77,DNA methylation or demethylation
+GO:1902221,0.000887102,22.62494118,0.20803208,3,8,erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process
+GO:1902222,0.000887102,22.62494118,0.20803208,3,8,erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process
+GO:0006558,0.000887102,22.62494118,0.20803208,3,8,L-phenylalanine metabolic process
+GO:0006559,0.000887102,22.62494118,0.20803208,3,8,L-phenylalanine catabolic process
+GO:0072711,0.000887102,22.62494118,0.20803208,3,8,cellular response to hydroxyurea
+GO:0001933,0.001008908,2.163703704,11.25973631,23,433,negative regulation of protein phosphorylation
+GO:0036010,0.001032746,10.79312668,0.468072179,4,18,protein localization to endosome
+GO:0006259,0.001048291,1.746836071,25.53593778,42,982,DNA metabolic process
+GO:0071840,0.001107062,1.361902306,158.0523726,189,6078,cellular component organization or biogenesis
+GO:1903322,0.001159243,3.462592431,3.120481196,10,120,positive regulation of protein modification by small protein conjugation or removal
+GO:0006342,0.001199839,4.163861709,2.106324807,8,81,chromatin silencing
+GO:0009306,0.001238509,1.996519218,14.30220548,27,550,protein secretion
+GO:0031398,0.001264011,3.721360382,2.626405006,9,101,positive regulation of protein ubiquitination
+GO:1900151,0.001281501,10.07295597,0.494076189,4,19,"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+GO:0042436,0.001305044,18.85294118,0.23403609,3,9,indole-containing compound catabolic process
+GO:0046218,0.001305044,18.85294118,0.23403609,3,9,indolalkylamine catabolic process
+GO:0006569,0.001305044,18.85294118,0.23403609,3,9,tryptophan catabolic process
+GO:0031400,0.001366802,1.955577617,15.1343338,28,582,negative regulation of protein modification process
+GO:0022402,0.001423581,1.640720391,32.40099642,50,1246,cell cycle process
+GO:0006952,0.001470073,1.622665743,34.09125706,52,1311,defense response
+GO:0033120,0.001511664,6.755741304,0.858132329,5,33,positive regulation of RNA splicing
+GO:0051246,0.001518877,1.462122136,64.9840209,88,2499,regulation of protein metabolic process
+GO:0090087,0.001557398,1.832476775,19.03493529,33,732,regulation of peptide transport
+GO:1990126,0.001569279,9.442806604,0.520080199,4,20,"retrograde transport, endosome to plasma membrane"
+GO:0009074,0.001569279,9.442806604,0.520080199,4,20,aromatic amino acid family catabolic process
+GO:0051289,0.001640922,3.946567718,2.210340847,8,85,protein homotetramerization
+GO:0051101,0.001774508,3.52843048,2.756425056,9,106,regulation of DNA binding
+GO:0070189,0.001828514,16.15865546,0.2600401,3,10,kynurenine metabolic process
+GO:0070262,0.001828514,16.15865546,0.2600401,3,10,peptidyl-serine dephosphorylation
+GO:0035092,0.001828514,16.15865546,0.2600401,3,10,sperm chromatin condensation
+GO:0072710,0.001828514,16.15865546,0.2600401,3,10,response to hydroxyurea
+GO:0044093,0.0018406,1.543934771,42.82860441,62,1647,positive regulation of molecular function
+GO:0030162,0.001847869,1.847746561,17.70873079,31,681,regulation of proteolysis
+GO:0022414,0.001881058,1.558085762,40.33221945,59,1551,reproductive process
+GO:0031497,0.001894053,3.492206907,2.782429066,9,107,chromatin assembly
+GO:0043488,0.001894053,3.492206907,2.782429066,9,107,regulation of mRNA stability
+GO:0035337,0.00189911,8.886792453,0.546084209,4,21,fatty-acyl-CoA metabolic process
+GO:0097053,0.00198908,75.25821596,0.07801203,2,3,L-kynurenine catabolic process
+GO:0036098,0.00198908,75.25821596,0.07801203,2,3,male germ-line stem cell population maintenance
+GO:0052651,0.00198908,75.25821596,0.07801203,2,3,monoacylglycerol catabolic process
+GO:0009955,0.00198908,75.25821596,0.07801203,2,3,adaxial/abaxial pattern specification
+GO:1903527,0.00198908,75.25821596,0.07801203,2,3,positive regulation of membrane tubulation
+GO:0003221,0.00198908,75.25821596,0.07801203,2,3,right ventricular cardiac muscle tissue morphogenesis
+GO:2000011,0.00198908,75.25821596,0.07801203,2,3,regulation of adaxial/abaxial pattern formation
+GO:0000003,0.001995423,1.553492239,40.43623549,59,1555,reproduction
+GO:0046596,0.00199857,5.050868878,1.326204508,6,51,regulation of viral entry into host cell
+GO:1902373,0.002252773,6.100815984,0.936144359,5,36,negative regulation of mRNA catabolic process
+GO:0007010,0.002303462,1.58435418,34.81936934,52,1339,cytoskeleton organization
+GO:0006816,0.002313074,2.054246975,11.28574032,22,434,calcium ion transport
+GO:0042326,0.002399859,2.012306397,12.03985661,23,463,negative regulation of phosphorylation
+GO:0006568,0.002465946,14.13794118,0.28604411,3,11,tryptophan metabolic process
+GO:0003006,0.002490112,1.827563012,17.29266663,30,665,developmental process involved in reproduction
+GO:0031324,0.002528783,1.452894557,59.02910262,80,2270,negative regulation of cellular metabolic process
+GO:0070201,0.002539481,1.788505546,18.85290722,32,725,regulation of establishment of protein localization
+GO:0030097,0.002545601,1.741322503,21.19326812,35,815,hemopoiesis
+GO:0051223,0.002631237,1.801480322,18.12479495,31,697,regulation of protein transport
+GO:0002520,0.002683744,1.695899202,23.63764506,38,909,immune system development
+GO:0010604,0.002716372,1.407856079,74.34546449,97,2859,positive regulation of macromolecule metabolic process
+GO:0048522,0.002728282,1.342873471,123.3890273,150,4745,positive regulation of cellular process
+GO:0043487,0.002753134,3.289494217,2.938453126,9,113,regulation of RNA stability
+GO:0018193,0.002870245,1.609361219,30.21665958,46,1162,peptidyl-amino acid modification
+GO:0032480,0.002874746,5.730353177,0.988152379,5,38,negative regulation of type I interferon production
+GO:0009892,0.002903863,1.420954572,67.3243818,89,2589,negative regulation of metabolic process
+GO:0006304,0.003102161,3.531561462,2.444376937,8,94,DNA modification
+GO:0070198,0.003170614,7.552358491,0.624096239,4,24,"protein localization to chromosome, telomeric region"
+GO:0010880,0.003170614,7.552358491,0.624096239,4,24,regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum
+GO:0051051,0.003289226,2.026675145,10.89568017,21,419,negative regulation of transport
+GO:0001816,0.003304959,1.789386749,17.63071876,30,678,cytokine production
+GO:0051248,0.003579599,1.632413733,26.47208214,41,1018,negative regulation of protein metabolic process
+GO:0032880,0.003663513,1.65052842,24.88583754,39,957,regulation of protein localization
+GO:0046597,0.003698082,7.192273136,0.650100249,4,25,negative regulation of viral entry into host cell
+GO:0019953,0.00372852,1.648623322,24.91184155,39,958,sexual reproduction
+GO:0032269,0.00372852,1.648623322,24.91184155,39,958,negative regulation of cellular protein metabolic process
+GO:0006281,0.003747391,1.935337818,12.48192478,23,480,DNA repair
+GO:0048523,0.003862786,1.337311813,111.2191506,136,4277,negative regulation of cellular process
+GO:0016579,0.003895723,2.479554217,5.538854122,13,213,protein deubiquitination
+GO:0045084,0.003909657,37.62676056,0.10401604,2,4,positive regulation of interleukin-12 biosynthetic process
+GO:0070213,0.003909657,37.62676056,0.10401604,2,4,protein auto-ADP-ribosylation
+GO:0085020,0.003909657,37.62676056,0.10401604,2,4,protein K6-linked ubiquitination
+GO:0070535,0.003909657,37.62676056,0.10401604,2,4,histone H2A K63-linked ubiquitination
+GO:1901475,0.003909657,37.62676056,0.10401604,2,4,pyruvate transmembrane transport
+GO:0035220,0.003909657,37.62676056,0.10401604,2,4,wing disc development
+GO:0016102,0.003909657,37.62676056,0.10401604,2,4,diterpenoid biosynthetic process
+GO:0035544,0.003909657,37.62676056,0.10401604,2,4,negative regulation of SNARE complex assembly
+GO:0035948,0.003909657,37.62676056,0.10401604,2,4,positive regulation of gluconeogenesis by positive regulation of transcription from RNA polymerase II promoter
+GO:0002138,0.003909657,37.62676056,0.10401604,2,4,retinoic acid biosynthetic process
+GO:0006848,0.003909657,37.62676056,0.10401604,2,4,pyruvate transport
+GO:0033091,0.003909657,37.62676056,0.10401604,2,4,positive regulation of immature T cell proliferation
+GO:1903525,0.003909657,37.62676056,0.10401604,2,4,regulation of membrane tubulation
+GO:0006586,0.004112107,11.30894118,0.33805213,3,13,indolalkylamine metabolic process
+GO:0006974,0.004148222,1.725934379,19.47700346,32,749,cellular response to DNA damage stimulus
+GO:0038061,0.004266455,3.336473051,2.574396986,8,99,NIK/NF-kappaB signaling
+GO:0060968,0.004266455,3.336473051,2.574396986,8,99,regulation of gene silencing
+GO:0048255,0.004282012,6.864922813,0.676104259,4,26,mRNA stabilization
+GO:0044703,0.004392535,1.584663121,29.25451121,44,1125,multi-organism reproductive process
+GO:0042157,0.004432428,2.838141827,3.744577435,10,144,lipoprotein metabolic process
+GO:1902369,0.004476144,5.109577663,1.092168418,5,42,negative regulation of RNA catabolic process
+GO:0043933,0.004502123,1.442004697,52.37207607,71,2014,protein-containing complex subunit organization
+GO:0048609,0.00458903,1.626081362,25.22388967,39,970,multicellular organismal reproductive process
+GO:0030036,0.004800154,1.756455503,17.31867064,29,666,actin cytoskeleton organization
+GO:0048518,0.004914624,1.30726416,138.5493651,164,5328,positive regulation of biological process
+GO:0031399,0.004977072,1.476699307,43.01063248,60,1654,regulation of protein modification process
+GO:0048519,0.005005729,1.31550443,123.3370193,148,4743,negative regulation of biological process
+GO:0097329,0.005133531,10.2802139,0.364056139,3,14,response to antimetabolite
+GO:0032504,0.005165171,1.613198239,25.40591773,39,977,multicellular organism reproduction
+GO:0048534,0.005222281,1.656292577,22.1814205,35,853,hematopoietic or lymphoid organ development
+GO:0006508,0.005225122,1.46848264,43.97278085,61,1691,proteolysis
+GO:0042430,0.005629855,6.292059748,0.728112279,4,28,indole-containing compound metabolic process
+GO:0070646,0.005708714,2.359988526,5.798894222,13,223,protein modification by small protein removal
+GO:0043414,0.005729056,2.203063885,7.15110274,15,275,macromolecule methylation
+GO:0010564,0.005763731,1.730972167,17.55270673,29,675,regulation of cell cycle process
+GO:1903320,0.005979353,2.444055944,5.174797983,12,199,regulation of protein modification by small protein conjugation or removal
+GO:2001233,0.006096535,1.982745182,10.03754785,19,386,regulation of apoptotic signaling pathway
+GO:0006334,0.0062143,3.445044267,2.184336837,7,84,nucleosome assembly
+GO:0007289,0.006294395,9.422941176,0.390060149,3,15,spermatid nucleus differentiation
+GO:0001817,0.006357694,1.773675947,15.34236588,26,590,regulation of cytokine production
+GO:0009893,0.006375719,1.353025615,79.26022237,100,3048,positive regulation of metabolic process
+GO:0009072,0.006398839,6.04,0.754116289,4,29,aromatic amino acid family metabolic process
+GO:1904628,0.00640413,25.0829421,0.13002005,2,5,cellular response to phorbol 13-acetate 12-myristate
+GO:0045075,0.00640413,25.0829421,0.13002005,2,5,regulation of interleukin-12 biosynthetic process
+GO:0045410,0.00640413,25.0829421,0.13002005,2,5,positive regulation of interleukin-6 biosynthetic process
+GO:0008065,0.00640413,25.0829421,0.13002005,2,5,establishment of blood-nerve barrier
+GO:0045875,0.00640413,25.0829421,0.13002005,2,5,negative regulation of sister chromatid cohesion
+GO:0042090,0.00640413,25.0829421,0.13002005,2,5,interleukin-12 biosynthetic process
+GO:0042574,0.00640413,25.0829421,0.13002005,2,5,retinal metabolic process
+GO:0098787,0.00640413,25.0829421,0.13002005,2,5,mRNA cleavage involved in mRNA processing
+GO:0098789,0.00640413,25.0829421,0.13002005,2,5,pre-mRNA cleavage required for polyadenylation
+GO:0021553,0.00640413,25.0829421,0.13002005,2,5,olfactory nerve development
+GO:0007444,0.00640413,25.0829421,0.13002005,2,5,imaginal disc development
+GO:0097190,0.006441871,1.793336358,14.58824959,25,561,apoptotic signaling pathway
+GO:0043009,0.006648066,1.728349359,16.9546145,28,652,chordate embryonic development
+GO:0043489,0.007234417,5.807329463,0.780120299,4,30,RNA stabilization
+GO:0014808,0.007234417,5.807329463,0.780120299,4,30,release of sequestered calcium ion into cytosol by sarcoplasmic reticulum
+GO:0061013,0.00726399,2.800989867,3.406525305,9,131,regulation of mRNA catabolic process
+GO:0065003,0.007528066,1.435585655,45.61103348,62,1754,protein-containing complex assembly
+GO:0042537,0.007599234,8.697556561,0.416064159,3,16,benzene-containing compound metabolic process
+GO:0043584,0.007599234,8.697556561,0.416064159,3,16,nose development
+GO:0015849,0.007605897,2.071548461,8.087247099,16,311,organic acid transport
+GO:0046942,0.007605897,2.071548461,8.087247099,16,311,carboxylic acid transport
+GO:0043269,0.007668441,1.725681643,16.35652227,27,629,regulation of ion transport
+GO:0006353,0.007829577,3.722321498,1.742268668,6,67,"DNA-templated transcription, termination"
+GO:0070838,0.00787697,1.834236453,12.5339328,22,482,divalent metal ion transport
+GO:0010948,0.008063608,2.057337125,8.139255119,16,313,negative regulation of cell cycle process
+GO:1903514,0.008138877,5.591893781,0.806124309,4,31,release of sequestered calcium ion into cytosol by endoplasmic reticulum
+GO:0009792,0.008253821,1.69719685,17.24065861,28,663,embryo development ending in birth or egg hatching
+GO:0034622,0.008379133,1.560095286,26.18603803,39,1007,cellular protein-containing complex assembly
+GO:0072511,0.008436542,1.822000447,12.61194483,22,485,divalent inorganic cation transport
+GO:0072698,0.008655985,4.2948098,1.274196488,5,49,protein localization to microtubule cytoskeleton
+GO:0046949,0.009051936,8.075798319,0.442068169,3,17,fatty-acyl-CoA biosynthetic process
+GO:0051092,0.009335681,2.889070295,2.938453126,8,113,positive regulation of NF-kappaB transcription factor activity
+GO:0030718,0.009441493,18.81103286,0.15602406,2,6,germ-line stem cell population maintenance
+GO:1904627,0.009441493,18.81103286,0.15602406,2,6,response to phorbol 13-acetate 12-myristate
+GO:0034182,0.009441493,18.81103286,0.15602406,2,6,regulation of maintenance of mitotic sister chromatid cohesion
+GO:0035947,0.009441493,18.81103286,0.15602406,2,6,regulation of gluconeogenesis by regulation of transcription from RNA polymerase II promoter
+GO:0033084,0.009441493,18.81103286,0.15602406,2,6,regulation of immature T cell proliferation in thymus
+GO:0010571,0.009441493,18.81103286,0.15602406,2,6,positive regulation of nuclear cell cycle DNA replication
+GO:0033601,0.009441493,18.81103286,0.15602406,2,6,positive regulation of mammary gland epithelial cell proliferation
+GO:0061038,0.009441493,18.81103286,0.15602406,2,6,uterus morphogenesis
+GO:0050776,0.00953465,1.632011259,19.8410596,31,763,regulation of immune response
+GO:0009411,0.009619006,2.668686605,3.562549365,9,137,response to UV
+GO:0061515,0.009642672,3.547171209,1.820280697,6,70,myeloid cell development
+GO:0042102,0.009642672,3.547171209,1.820280697,6,70,positive regulation of T cell proliferation
+GO:1903530,0.009876032,1.641053278,19.08694331,30,734,regulation of secretion by cell
+GO:0034508,0.010163051,5.205595316,0.858132329,4,33,centromere complex assembly
+GO:0043967,0.010308411,3.492380605,1.846284707,6,71,histone H4 acetylation
+GO:1900153,0.010655774,7.536941176,0.468072179,3,18,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+GO:0051173,0.010877868,1.338348868,70.67889908,89,2718,positive regulation of nitrogen compound metabolic process
+GO:0007049,0.010906428,1.409513742,45.55902546,61,1752,cell cycle
+GO:0070296,0.011286793,5.031761006,0.884136339,4,34,sarcoplasmic reticulum calcium ion transport
+GO:0002833,0.011286793,5.031761006,0.884136339,4,34,positive regulation of response to biotic stimulus
+GO:0045786,0.011311492,1.723995995,14.51023756,24,558,negative regulation of cell cycle
+GO:1905039,0.011383902,2.782350371,3.042469166,8,117,carboxylic acid transmembrane transport
+GO:1903825,0.011383902,2.782350371,3.042469166,8,117,organic acid transmembrane transport
+GO:0031325,0.011762619,1.328176051,73.64335622,92,2832,positive regulation of cellular metabolic process
+GO:0018108,0.011852049,1.92042068,9.231423537,17,355,peptidyl-tyrosine phosphorylation
+GO:0051262,0.012110893,2.418858379,4.342669664,10,167,protein tetramerization
+GO:0007063,0.01241345,7.065441176,0.494076189,3,19,regulation of sister chromatid cohesion
+GO:0018212,0.012472368,1.908880779,9.283431557,17,357,peptidyl-tyrosine modification
+GO:0034091,0.012991957,15.04788732,0.18202807,2,7,regulation of maintenance of sister chromatid cohesion
+GO:0033080,0.012991957,15.04788732,0.18202807,2,7,immature T cell proliferation in thymus
+GO:0065004,0.013082637,2.388131564,4.394677684,10,169,protein-DNA complex assembly
+GO:0032259,0.013601778,1.931301462,8.633331308,16,332,methylation
+GO:0051130,0.013656717,1.470304861,31.28282399,44,1203,positive regulation of cellular component organization
+GO:0030029,0.01372748,1.595946538,19.5810195,30,753,actin filament-based process
+GO:0045936,0.013795391,1.691212871,14.77027766,24,568,negative regulation of phosphate metabolic process
+GO:0010563,0.013795391,1.691212871,14.77027766,24,568,negative regulation of phosphorus metabolic process
+GO:1901361,0.013867994,1.710981661,13.99015736,23,538,organic cyclic compound catabolic process
+GO:0065007,0.01395425,1.275340491,288.6965186,310,11102,biological regulation
+GO:0002831,0.013965363,2.912479445,2.548392976,7,98,regulation of response to biotic stimulus
+GO:0061157,0.014327127,6.649411765,0.520080199,3,20,mRNA destabilization
+GO:0051338,0.014945533,1.529645785,23.84567714,35,917,regulation of transferase activity
+GO:0044380,0.014969675,3.703703704,1.456224558,5,56,protein localization to cytoskeleton
+GO:0007628,0.015126415,4.573470555,0.962148369,4,37,adult walking behavior
+GO:0061014,0.015126415,4.573470555,0.962148369,4,37,positive regulation of mRNA catabolic process
+GO:0030218,0.015468678,2.849487906,2.600400996,7,100,erythrocyte differentiation
+GO:0030099,0.015586838,1.858587971,9.517467647,17,366,myeloid cell differentiation
+GO:0009791,0.015738768,2.613300493,3.224497236,8,124,post-embryonic development
+GO:0051046,0.015781038,1.56468461,20.6211799,31,793,regulation of secretion
+GO:0050779,0.016398463,6.279607843,0.546084209,3,21,RNA destabilization
+GO:0042402,0.016398463,6.279607843,0.546084209,3,21,cellular biogenic amine catabolic process
+GO:0031935,0.016398463,6.279607843,0.546084209,3,21,regulation of chromatin silencing
+GO:0009310,0.016398463,6.279607843,0.546084209,3,21,amine catabolic process
+GO:0006103,0.016398463,6.279607843,0.546084209,3,21,2-oxoglutarate metabolic process
+GO:0033599,0.016398463,6.279607843,0.546084209,3,21,regulation of mammary gland epithelial cell proliferation
+GO:0090659,0.016567788,4.438679245,0.988152379,4,38,walking behavior
+GO:2001234,0.016835483,2.187653019,5.252810013,11,202,negative regulation of apoptotic signaling pathway
+GO:0035264,0.016949131,2.286418401,4.576705754,10,176,multicellular organism growth
+GO:0042182,0.017026909,12.53912363,0.20803208,2,8,ketone catabolic process
+GO:0031086,0.017026909,12.53912363,0.20803208,2,8,"nuclear-transcribed mRNA catabolic process, deadenylation-independent decay"
+GO:0031339,0.017026909,12.53912363,0.20803208,2,8,negative regulation of vesicle fusion
+GO:0031666,0.017026909,12.53912363,0.20803208,2,8,positive regulation of lipopolysaccharide-mediated signaling pathway
+GO:0016114,0.017026909,12.53912363,0.20803208,2,8,terpenoid biosynthetic process
+GO:0035542,0.017026909,12.53912363,0.20803208,2,8,regulation of SNARE complex assembly
+GO:0043983,0.017026909,12.53912363,0.20803208,2,8,histone H4-K12 acetylation
+GO:0060763,0.017026909,12.53912363,0.20803208,2,8,mammary duct terminal end bud growth
+GO:0033083,0.017026909,12.53912363,0.20803208,2,8,regulation of immature T cell proliferation
+GO:0097435,0.017103874,1.621227197,16.66857039,26,641,supramolecular fiber organization
+GO:0034968,0.017178402,2.568684423,3.276505255,8,126,histone lysine methylation
+GO:1901570,0.017221189,3.56349525,1.508232578,5,58,fatty acid derivative biosynthetic process
+GO:0090066,0.017870231,1.667456977,14.32820949,23,551,regulation of anatomical structure size
+GO:0003279,0.017934114,2.759921813,2.678413026,7,103,cardiac septum development
+GO:0035904,0.01842661,3.497285702,1.534236588,5,59,aorta development
+GO:0031055,0.018628644,5.94873065,0.572088219,3,22,chromatin remodeling at centromere
+GO:0045815,0.019701208,4.191561845,1.040160399,4,40,"positive regulation of gene expression, epigenetic"
+GO:0010803,0.019701208,4.191561845,1.040160399,4,40,regulation of tumor necrosis factor-mediated signaling pathway
+GO:0002262,0.020337813,2.483840749,3.380521295,8,130,myeloid cell homeostasis
+GO:0043902,0.020886547,2.205825081,4.732729813,10,182,positive regulation of multi-organism process
+GO:0007281,0.020930396,2.035585508,6.136946352,12,236,germ cell development
+GO:2000679,0.021018411,5.650941176,0.598092229,3,23,positive regulation of transcription regulatory region DNA binding
+GO:0009648,0.021018411,5.650941176,0.598092229,3,23,photoperiodism
+GO:0048608,0.021401325,1.726679474,11.41576037,19,439,reproductive structure development
+GO:0046462,0.02151887,10.74714956,0.23403609,2,9,monoacylglycerol metabolic process
+GO:0016584,0.02151887,10.74714956,0.23403609,2,9,nucleosome positioning
+GO:0002327,0.02151887,10.74714956,0.23403609,2,9,immature B cell differentiation
+GO:0033079,0.02151887,10.74714956,0.23403609,2,9,immature T cell proliferation
+GO:0048752,0.02151887,10.74714956,0.23403609,2,9,semicircular canal morphogenesis
+GO:0098532,0.02151887,10.74714956,0.23403609,2,9,histone H3-K27 trimethylation
+GO:0003223,0.02151887,10.74714956,0.23403609,2,9,ventricular compact myocardium morphogenesis
+GO:0006310,0.022096376,1.902294686,7.645178929,14,294,DNA recombination
+GO:1901222,0.022372124,3.312595911,1.612248618,5,62,regulation of NIK/NF-kappaB signaling
+GO:0043966,0.022372124,3.312595911,1.612248618,5,62,histone H3 acetylation
+GO:1903312,0.022372124,3.312595911,1.612248618,5,62,negative regulation of mRNA metabolic process
+GO:0034101,0.022636514,2.622468898,2.808433076,7,108,erythrocyte homeostasis
+GO:2000059,0.023176651,3.970456802,1.092168418,4,42,negative regulation of ubiquitin-dependent protein catabolic process
+GO:0010212,0.023336179,2.274128878,4.134637584,9,159,response to ionizing radiation
+GO:0070076,0.023568097,5.381512605,0.624096239,3,24,histone lysine demethylation
+GO:0001773,0.023568097,5.381512605,0.624096239,3,24,myeloid dendritic cell activation
+GO:0018345,0.023568097,5.381512605,0.624096239,3,24,protein palmitoylation
+GO:0045859,0.023590277,1.532222429,19.63302752,29,755,regulation of protein kinase activity
+GO:0031124,0.023799739,3.255278389,1.638252628,5,63,mRNA 3'-end processing
+GO:0061458,0.024695591,1.697611699,11.59778844,19,446,reproductive system development
+GO:0035194,0.024735742,2.571224316,2.860441096,7,110,posttranscriptional gene silencing by RNA
+GO:1901224,0.025045116,3.868408321,1.118172428,4,43,positive regulation of NIK/NF-kappaB signaling
+GO:0019228,0.025045116,3.868408321,1.118172428,4,43,neuronal action potential
+GO:0009314,0.025196088,1.693536778,11.62379245,19,447,response to radiation
+GO:0031047,0.025819972,2.366517857,3.536545355,8,136,gene silencing by RNA
+GO:0097327,0.025833833,2.546341129,2.886445106,7,111,response to antineoplastic agent
+GO:0034401,0.02600401,Inf,0.02600401,1,1,chromatin organization involved in regulation of transcription
+GO:0034247,0.02600401,Inf,0.02600401,1,1,snoRNA splicing
+GO:0061930,0.02600401,Inf,0.02600401,1,1,regulation of erythrocyte enucleation
+GO:0061931,0.02600401,Inf,0.02600401,1,1,positive regulation of erythrocyte enucleation
+GO:0070868,0.02600401,Inf,0.02600401,1,1,heterochromatin organization involved in chromatin silencing
+GO:0070869,0.02600401,Inf,0.02600401,1,1,heterochromatin assembly involved in chromatin silencing
+GO:0042766,0.02600401,Inf,0.02600401,1,1,nucleosome mobilization
+GO:0042883,0.02600401,Inf,0.02600401,1,1,cysteine transport
+GO:1901257,0.02600401,Inf,0.02600401,1,1,negative regulation of macrophage colony-stimulating factor production
+GO:1901726,0.02600401,Inf,0.02600401,1,1,negative regulation of histone deacetylase activity
+GO:0051037,0.02600401,Inf,0.02600401,1,1,regulation of transcription involved in meiotic cell cycle
+GO:0051039,0.02600401,Inf,0.02600401,1,1,positive regulation of transcription involved in meiotic cell cycle
+GO:1901580,0.02600401,Inf,0.02600401,1,1,regulation of telomeric RNA transcription from RNA pol II promoter
+GO:1901581,0.02600401,Inf,0.02600401,1,1,negative regulation of telomeric RNA transcription from RNA pol II promoter
+GO:1901582,0.02600401,Inf,0.02600401,1,1,positive regulation of telomeric RNA transcription from RNA pol II promoter
+GO:1901545,0.02600401,Inf,0.02600401,1,1,response to raffinose
+GO:1905393,0.02600401,Inf,0.02600401,1,1,plant organ formation
+GO:1905398,0.02600401,Inf,0.02600401,1,1,"activated CD4-positive, alpha-beta T cell apoptotic process"
+GO:1905399,0.02600401,Inf,0.02600401,1,1,"regulation of activated CD4-positive, alpha-beta T cell apoptotic process"
+GO:1901668,0.02600401,Inf,0.02600401,1,1,regulation of superoxide dismutase activity
+GO:0046778,0.02600401,Inf,0.02600401,1,1,modification by virus of host mRNA processing
+GO:0019391,0.02600401,Inf,0.02600401,1,1,glucuronoside catabolic process
+GO:1905404,0.02600401,Inf,0.02600401,1,1,"positive regulation of activated CD8-positive, alpha-beta T cell apoptotic process"
+GO:0019389,0.02600401,Inf,0.02600401,1,1,glucuronoside metabolic process
+GO:0019290,0.02600401,Inf,0.02600401,1,1,siderophore biosynthetic process
+GO:0001207,0.02600401,Inf,0.02600401,1,1,histone displacement
+GO:0043354,0.02600401,Inf,0.02600401,1,1,enucleate erythrocyte maturation
+GO:0035073,0.02600401,Inf,0.02600401,1,1,pupariation
+GO:0035075,0.02600401,Inf,0.02600401,1,1,response to ecdysone
+GO:0035076,0.02600401,Inf,0.02600401,1,1,ecdysone receptor-mediated signaling pathway
+GO:0043131,0.02600401,Inf,0.02600401,1,1,erythrocyte enucleation
+GO:0150066,0.02600401,Inf,0.02600401,1,1,negative regulation of deacetylase activity
+GO:0035127,0.02600401,Inf,0.02600401,1,1,post-embryonic limb morphogenesis
+GO:0035128,0.02600401,Inf,0.02600401,1,1,post-embryonic forelimb morphogenesis
+GO:0097393,0.02600401,Inf,0.02600401,1,1,telomeric repeat-containing RNA transcription
+GO:0097394,0.02600401,Inf,0.02600401,1,1,telomeric repeat-containing RNA transcription by RNA polymerase II
+GO:0035210,0.02600401,Inf,0.02600401,1,1,prepupal development
+GO:0097403,0.02600401,Inf,0.02600401,1,1,cellular response to raffinose
+GO:1902838,0.02600401,Inf,0.02600401,1,1,regulation of nuclear migration along microtubule
+GO:0002017,0.02600401,Inf,0.02600401,1,1,regulation of blood volume by renal aldosterone
+GO:0032013,0.02600401,Inf,0.02600401,1,1,negative regulation of ARF protein signal transduction
+GO:0071390,0.02600401,Inf,0.02600401,1,1,cellular response to ecdysone
+GO:1902661,0.02600401,Inf,0.02600401,1,1,positive regulation of glucose mediated signaling pathway
+GO:0090138,0.02600401,Inf,0.02600401,1,1,regulation of actin cytoskeleton organization by cell-cell adhesion
+GO:0002461,0.02600401,Inf,0.02600401,1,1,tolerance induction dependent upon immune response
+GO:0097549,0.02600401,Inf,0.02600401,1,1,chromatin organization involved in negative regulation of transcription
+GO:0060819,0.02600401,Inf,0.02600401,1,1,inactivation of X chromosome by genetic imprinting
+GO:0009237,0.02600401,Inf,0.02600401,1,1,siderophore metabolic process
+GO:0090601,0.02600401,Inf,0.02600401,1,1,enucleation
+GO:0032712,0.02600401,Inf,0.02600401,1,1,negative regulation of interleukin-3 production
+GO:0002856,0.02600401,Inf,0.02600401,1,1,negative regulation of natural killer cell mediated immune response to tumor cell
+GO:0002859,0.02600401,Inf,0.02600401,1,1,negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+GO:0071656,0.02600401,Inf,0.02600401,1,1,negative regulation of granulocyte colony-stimulating factor production
+GO:0002835,0.02600401,Inf,0.02600401,1,1,negative regulation of response to tumor cell
+GO:0002838,0.02600401,Inf,0.02600401,1,1,negative regulation of immune response to tumor cell
+GO:0002574,0.02600401,Inf,0.02600401,1,1,thrombocyte differentiation
+GO:0002652,0.02600401,Inf,0.02600401,1,1,regulation of tolerance induction dependent upon immune response
+GO:0036351,0.02600401,Inf,0.02600401,1,1,histone H2A-K13 ubiquitination
+GO:0036352,0.02600401,Inf,0.02600401,1,1,histone H2A-K15 ubiquitination
+GO:0036371,0.02600401,Inf,0.02600401,1,1,protein localization to T-tubule
+GO:0010016,0.02600401,Inf,0.02600401,1,1,shoot system morphogenesis
+GO:0036111,0.02600401,Inf,0.02600401,1,1,very long-chain fatty-acyl-CoA metabolic process
+GO:0002940,0.02600401,Inf,0.02600401,1,1,tRNA N2-guanine methylation
+GO:0048367,0.02600401,Inf,0.02600401,1,1,shoot system development
+GO:0010346,0.02600401,Inf,0.02600401,1,1,shoot axis formation
+GO:1903712,0.02600401,Inf,0.02600401,1,1,cysteine transmembrane transport
+GO:1903709,0.02600401,Inf,0.02600401,1,1,uterine gland development
+GO:1903584,0.02600401,Inf,0.02600401,1,1,regulation of histone deubiquitination
+GO:1903586,0.02600401,Inf,0.02600401,1,1,positive regulation of histone deubiquitination
+GO:0010223,0.02600401,Inf,0.02600401,1,1,secondary shoot formation
+GO:0010228,0.02600401,Inf,0.02600401,1,1,vegetative to reproductive phase transition of meristem
+GO:1903699,0.02600401,Inf,0.02600401,1,1,tarsal gland development
+GO:0006666,0.02600401,Inf,0.02600401,1,1,3-keto-sphinganine metabolic process
+GO:0048573,0.02600401,Inf,0.02600401,1,1,"photoperiodism, flowering"
+GO:1903964,0.02600401,Inf,0.02600401,1,1,monounsaturated fatty acid metabolic process
+GO:1903966,0.02600401,Inf,0.02600401,1,1,monounsaturated fatty acid biosynthetic process
+GO:0051412,0.026277644,5.13657754,0.650100249,3,25,response to corticosterone
+GO:0016577,0.026277644,5.13657754,0.650100249,3,25,histone demethylation
+GO:0034088,0.026441459,9.403169014,0.2600401,2,10,maintenance of mitotic sister chromatid cohesion
+GO:0008655,0.026441459,9.403169014,0.2600401,2,10,pyrimidine-containing compound salvage
+GO:0043097,0.026441459,9.403169014,0.2600401,2,10,pyrimidine nucleoside salvage
+GO:0043518,0.026441459,9.403169014,0.2600401,2,10,"negative regulation of DNA damage response, signal transduction by p53 class mediator"
+GO:0035646,0.026441459,9.403169014,0.2600401,2,10,endosome to melanosome transport
+GO:0002318,0.026441459,9.403169014,0.2600401,2,10,myeloid progenitor cell differentiation
+GO:0016441,0.026964778,2.521931908,2.912449116,7,112,posttranscriptional gene silencing
+GO:0007157,0.027001837,3.771462264,1.144176438,4,44,heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+GO:0009416,0.027662921,1.842000568,7.879215019,14,303,response to light stimulus
+GO:0018022,0.027856249,2.32981685,3.588553375,8,138,peptidyl-lysine methylation
+GO:0042737,0.028451475,2.731913436,2.314356887,6,89,drug catabolic process
+GO:0044089,0.028678807,1.622800386,13.39206513,21,515,positive regulation of cellular component biogenesis
+GO:1901797,0.02914664,4.912941176,0.676104259,3,26,negative regulation of signal transduction by p53 class mediator
+GO:0048103,0.02914664,4.912941176,0.676104259,3,26,somatic stem cell division
+GO:0006302,0.030695005,2.060406699,5.044777933,10,194,double-strand break repair
+GO:0010639,0.031104983,1.734849113,9.543471657,16,367,negative regulation of organelle organization
+GO:0032206,0.031182647,3.591419587,1.196184458,4,46,positive regulation of telomere maintenance
+GO:0006066,0.031600027,1.766280107,8.789355368,15,338,alcohol metabolic process
+GO:0061158,0.031769351,8.357850809,0.28604411,2,11,3'-UTR-mediated mRNA destabilization
+GO:0034086,0.031769351,8.357850809,0.28604411,2,11,maintenance of sister chromatid cohesion
+GO:0070327,0.031769351,8.357850809,0.28604411,2,11,thyroid hormone transport
+GO:0043485,0.031769351,8.357850809,0.28604411,2,11,endosome to pigment granule transport
+GO:0060965,0.031769351,8.357850809,0.28604411,2,11,negative regulation of gene silencing by miRNA
+GO:0006388,0.031769351,8.357850809,0.28604411,2,11,"tRNA splicing, via endonucleolytic cleavage and ligation"
+GO:0036302,0.031769351,8.357850809,0.28604411,2,11,atrioventricular canal development
+GO:1903729,0.031769351,8.357850809,0.28604411,2,11,regulation of plasma membrane organization
+GO:0048757,0.031769351,8.357850809,0.28604411,2,11,pigment granule maturation
+GO:0010608,0.031820474,1.646082463,11.93584057,19,459,posttranscriptional regulation of gene expression
+GO:0008214,0.032174335,4.707941176,0.702108269,3,27,protein dealkylation
+GO:0051443,0.032174335,4.707941176,0.702108269,3,27,positive regulation of ubiquitin-protein transferase activity
+GO:0060384,0.032174335,4.707941176,0.702108269,3,27,innervation
+GO:0006482,0.032174335,4.707941176,0.702108269,3,27,protein demethylation
+GO:0048821,0.032174335,4.707941176,0.702108269,3,27,erythrocyte development
+GO:1901615,0.032525922,1.619416344,12.76796889,20,491,organic hydroxy compound metabolic process
+GO:2001252,0.032805585,2.130653341,4.394677684,9,169,positive regulation of chromosome organization
+GO:0051052,0.033732599,1.685415399,10.427608,17,401,regulation of DNA metabolic process
+GO:0030177,0.034626026,2.226190476,3.744577435,8,144,positive regulation of Wnt signaling pathway
+GO:0060443,0.035723184,3.427744425,1.248192478,4,48,mammary gland morphogenesis
+GO:0022412,0.035794605,1.773220612,8.165259129,14,314,cellular process involved in reproduction in multicellular organism
+GO:1901796,0.037110298,2.193650794,3.796585455,8,146,regulation of signal transduction by p53 class mediator
+GO:0031396,0.037247397,2.078162291,4.498693724,9,173,regulation of protein ubiquitination
+GO:0031123,0.037459785,2.546780979,2.470380947,6,95,RNA 3'-end processing
+GO:0030435,0.037478241,7.521596244,0.31204812,2,12,sporulation resulting in formation of a cellular spore
+GO:0030277,0.037478241,7.521596244,0.31204812,2,12,maintenance of gastrointestinal epithelium
+GO:0045199,0.037478241,7.521596244,0.31204812,2,12,maintenance of epithelial cell apical/basal polarity
+GO:0042048,0.037478241,7.521596244,0.31204812,2,12,olfactory behavior
+GO:0051023,0.037478241,7.521596244,0.31204812,2,12,regulation of immunoglobulin secretion
+GO:0035090,0.037478241,7.521596244,0.31204812,2,12,maintenance of apical/basal cell polarity
+GO:0031507,0.037478241,7.521596244,0.31204812,2,12,heterochromatin assembly
+GO:0043934,0.037478241,7.521596244,0.31204812,2,12,sporulation
+GO:0060872,0.037478241,7.521596244,0.31204812,2,12,semicircular canal development
+GO:0016973,0.037478241,7.521596244,0.31204812,2,12,poly(A)+ mRNA export from nucleus
+GO:0044154,0.037478241,7.521596244,0.31204812,2,12,histone H3-K14 acetylation
+GO:1900402,0.037478241,7.521596244,0.31204812,2,12,regulation of carbohydrate metabolic process by regulation of transcription from RNA polymerase II promoter
+GO:0014832,0.037478241,7.521596244,0.31204812,2,12,urinary bladder smooth muscle contraction
+GO:0051254,0.037481887,1.338253748,38.79798287,50,1492,positive regulation of RNA metabolic process
+GO:0016571,0.038396267,2.1777321,3.822589465,8,147,histone methylation
+GO:0032270,0.038573971,1.34695821,36.19758187,47,1392,positive regulation of cellular protein metabolic process
+GO:0070734,0.038701307,4.345248869,0.754116289,3,29,histone H3-K27 methylation
+GO:0031297,0.038701307,4.345248869,0.754116289,3,29,replication fork processing
+GO:0033598,0.038701307,4.345248869,0.754116289,3,29,mammary gland epithelial cell proliferation
+GO:0044087,0.039395922,1.422978457,23.97569719,33,922,regulation of cellular component biogenesis
+GO:0072331,0.039605023,1.895803357,6.006926302,11,231,signal transduction by p53 class mediator
+GO:1902275,0.039615502,2.0528654,4.550701744,9,175,regulation of chromatin organization
+GO:0045637,0.039921814,1.963209956,5.278814023,10,203,regulation of myeloid cell differentiation
+GO:0006633,0.040160176,2.301187648,3.172489216,7,122,fatty acid biosynthetic process
+GO:0032784,0.040625822,3.278301887,1.300200498,4,50,"regulation of DNA-templated transcription, elongation"
+GO:0010906,0.040824507,2.490495287,2.522388967,6,97,regulation of glucose metabolic process
+GO:0060964,0.04133254,2.774822695,1.898292727,5,73,regulation of gene silencing by miRNA
+GO:0033077,0.04133254,2.774822695,1.898292727,5,73,T cell differentiation in thymus
+GO:0043549,0.041501703,1.440767199,21.50531624,30,827,regulation of kinase activity
+GO:0007098,0.041675284,2.281206487,3.198493226,7,123,centrosome cycle
+GO:0035116,0.042197628,4.184052288,0.780120299,3,30,embryonic hindlimb morphogenesis
+GO:0006336,0.042197628,4.184052288,0.780120299,3,30,DNA replication-independent nucleosome assembly
+GO:0050671,0.04257619,2.463270142,2.548392976,6,98,positive regulation of lymphocyte proliferation
+GO:0048568,0.042675407,1.608210237,11.54578042,18,444,embryonic organ development
+GO:0000245,0.043213218,3.20835006,1.326204508,4,51,spliceosomal complex assembly
+GO:0042573,0.043544811,6.837387964,0.33805213,2,13,retinoic acid metabolic process
+GO:0070933,0.043544811,6.837387964,0.33805213,2,13,histone H4 deacetylation
+GO:0001771,0.043544811,6.837387964,0.33805213,2,13,immunological synapse formation
+GO:0043153,0.043544811,6.837387964,0.33805213,2,13,entrainment of circadian clock by photoperiod
+GO:0051580,0.043544811,6.837387964,0.33805213,2,13,regulation of neurotransmitter uptake
+GO:0051967,0.043544811,6.837387964,0.33805213,2,13,"negative regulation of synaptic transmission, glutamatergic"
+GO:0060149,0.043544811,6.837387964,0.33805213,2,13,negative regulation of posttranscriptional gene silencing
+GO:0060546,0.043544811,6.837387964,0.33805213,2,13,negative regulation of necroptotic process
+GO:0060967,0.043544811,6.837387964,0.33805213,2,13,negative regulation of gene silencing by RNA
+GO:0033089,0.043544811,6.837387964,0.33805213,2,13,positive regulation of T cell differentiation in thymus
+GO:0033262,0.043544811,6.837387964,0.33805213,2,13,regulation of nuclear cell cycle DNA replication
+GO:0033523,0.043544811,6.837387964,0.33805213,2,13,histone H2B ubiquitination
+GO:0014848,0.043544811,6.837387964,0.33805213,2,13,urinary tract smooth muscle contraction
+GO:0000394,0.043544811,6.837387964,0.33805213,2,13,"RNA splicing, via endonucleolytic cleavage and ligation"
+GO:0006282,0.044374439,2.436630485,2.574396986,6,99,regulation of DNA repair
+GO:0032946,0.044374439,2.436630485,2.574396986,6,99,positive regulation of mononuclear cell proliferation
+GO:0034724,0.04584678,4.034369748,0.806124309,3,31,DNA replication-independent nucleosome organization
+GO:0046461,0.04584678,4.034369748,0.806124309,3,31,neutral lipid catabolic process
+GO:0046464,0.04584678,4.034369748,0.806124309,3,31,acylglycerol catabolic process
+GO:0031063,0.04584678,4.034369748,0.806124309,3,31,regulation of histone deacetylation
+GO:0035307,0.04584678,4.034369748,0.806124309,3,31,positive regulation of protein dephosphorylation
+GO:1904357,0.04584678,4.034369748,0.806124309,3,31,negative regulation of telomere maintenance via telomere lengthening
+GO:2000050,0.04584678,4.034369748,0.806124309,3,31,regulation of non-canonical Wnt signaling pathway
+GO:0032479,0.046219488,2.410557628,2.600400996,6,100,regulation of type I interferon production
+GO:0065008,0.046947134,1.214677003,97.98310954,113,3768,regulation of biological quality
+GO:0000288,0.047787616,2.657077215,1.976304757,5,76,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+GO:0060147,0.047787616,2.657077215,1.976304757,5,76,regulation of posttranscriptional gene silencing
+GO:0060966,0.047787616,2.657077215,1.976304757,5,76,regulation of gene silencing by RNA
+GO:0000018,0.047787616,2.657077215,1.976304757,5,76,regulation of DNA recombination
+GO:0070665,0.048111544,2.385033674,2.626405006,6,101,positive regulation of leukocyte proliferation
+GO:0090263,0.048111544,2.385033674,2.626405006,6,101,positive regulation of canonical Wnt signaling pathway
+GO:0032606,0.048111544,2.385033674,2.626405006,6,101,type I interferon production
+GO:2001020,0.048702279,1.96893236,4.732729813,9,182,regulation of response to DNA damage stimulus
+GO:0050931,0.049646682,3.895010142,0.832128319,3,32,pigment cell differentiation
+GO:0001504,0.049646682,3.895010142,0.832128319,3,32,neurotransmitter uptake
+GO:0045722,0.049946691,6.267214397,0.364056139,2,14,positive regulation of gluconeogenesis
+GO:0043011,0.049946691,6.267214397,0.364056139,2,14,myeloid dendritic cell differentiation
+GO:0060056,0.049946691,6.267214397,0.364056139,2,14,mammary gland involution
+GO:0090085,0.049946691,6.267214397,0.364056139,2,14,regulation of protein deubiquitination
+GO:0060009,0.049946691,6.267214397,0.364056139,2,14,Sertoli cell development
+GO:0060712,0.049946691,6.267214397,0.364056139,2,14,spongiotrophoblast layer development
+GO:0060547,0.049946691,6.267214397,0.364056139,2,14,negative regulation of necrotic cell death
+GO:0021903,0.049946691,6.267214397,0.364056139,2,14,rostrocaudal neural tube patterning
