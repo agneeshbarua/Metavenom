@@ -3,6 +3,8 @@
 
 ### Supplementary material that includes code, original figures, and other material can be found [here](https://agneeshbarua.github.io/Metavenom/) 
 
+### Supplementary material specific to 'methods' section can be found [here](https://agneeshbarua.github.io/Meta_venom_methods/)
+
 ### Other data and code can be found in their respective repositories. 
 
 ### Abstract
