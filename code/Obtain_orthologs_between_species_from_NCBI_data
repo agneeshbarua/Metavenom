@@ -1,0 +1,8 @@
+#Obtain orthologs between species
+#using gene_orthologs.txt that has one-to-one human orthologs with other species.
+
+cat gene_orthologs.txt | awk ‘BEGIN{FS=“\t";OFS=“\t”}$4==10090||$103944{print $1,$2,$4,$5}
+
+cat gene_orthologs.txt | awk 'BEGIN{FS="\t";OFS="\t"}$4==10090||$4==103944||$4==8364||$4==9031||$4==28377||$4==9598{print $1,$2,$4,$5}' | sed 's/  /,/g'  > hs_mus_pm_xen_gal_anol_pan_Orthologs.csv
+
+#if col 4 = taxid OR col 4 = taxid, print (tax id, gene_id, other_tax_id, Other_gene_id)
