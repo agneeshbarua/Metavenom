@@ -1,9 +1,10 @@
 # An ancient, conserved gene regulatory network led to the rise of oral venom systems
 ## Agneesh Barua and Alexander S. Mikheyev
+### doi: 10.1073/pnas.2021311118
 
-### Supplementary material that includes code, original figures, and other material can be found [here](https://agneeshbarua.github.io/Metavenom/) 
+### Supplementary material that includes code, original figures, and other material can be found [here](https://agneeshbarua.github.io/Metavenom/). Last accessed 12 October 2020.
 
-### Supplementary material specific to 'methods' section can be found [here](https://agneeshbarua.github.io/Meta_venom_methods/)
+### Supplementary material specific to 'methods' section can be found [here](https://agneeshbarua.github.io/Meta_venom_methods/). Last accessed 12 October 2020.
 
 ### Other data and code can be found in their respective repositories. 
 
